@@ -1,0 +1,434 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/image.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <title>श्री विद्या वेंकटेश्वर स्वामी मंदिर</title>
+    
+    <style>
+      .divine-preloader {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(135deg, #0a0a0a 0%, #1a0f0a 50%, #2c1810 100%);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+        overflow: hidden;
+      }
+
+      /* Divine Glow Effect */
+      .divine-glow {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 0;
+        height: 0;
+        background: radial-gradient(circle, rgba(255, 215, 0, 0.8) 0%, transparent 70%);
+        animation: expandGlow 3s ease-out forwards;
+      }
+
+      @keyframes expandGlow {
+        0% {
+          width: 0;
+          height: 0;
+          opacity: 0;
+        }
+        50% {
+          opacity: 0.5;
+        }
+        100% {
+          width: 200vmax;
+          height: 200vmax;
+          opacity: 0;
+        }
+      }
+
+      /* OM Symbol Animation */
+      .om-symbol-container {
+        position: relative;
+        z-index: 2;
+        margin-bottom: 40px;
+      }
+
+      .om-symbol {
+        font-size: 6rem;
+        color: #FFD700;
+        text-shadow: 0 0 40px rgba(255, 215, 0, 0.8);
+        opacity: 0;
+        animation: omAppear 2s ease-out 0.3s forwards;
+        font-family: 'Segoe UI', 'Noto Sans Devanagari', sans-serif;
+        font-weight: bold;
+      }
+
+      @keyframes omAppear {
+        0% {
+          opacity: 0;
+          transform: scale(0.5) rotate(-180deg);
+        }
+        100% {
+          opacity: 1;
+          transform: scale(1) rotate(0deg);
+        }
+      }
+
+      /* Floating Particles */
+      .divine-particle {
+        position: absolute;
+        background: #FFD700;
+        border-radius: 50%;
+        opacity: 0.6;
+        animation: floatParticle 15s infinite linear;
+      }
+
+      @keyframes floatParticle {
+        0% {
+          transform: translateY(100vh) rotate(0deg);
+          opacity: 0;
+        }
+        10% {
+          opacity: 0.6;
+        }
+        90% {
+          opacity: 0.6;
+        }
+        100% {
+          transform: translateY(-100px) rotate(360deg);
+          opacity: 0;
+        }
+      }
+
+      /* Temple Name Animation */
+      .temple-name-preloader {
+        text-align: center;
+        opacity: 0;
+        animation: fadeInUp 1.5s ease-out 0.5s forwards;
+      }
+
+      .temple-name-preloader h1 {
+        font-size: 2.5rem;
+        color: #FFD700;
+        margin-bottom: 10px;
+        background: linear-gradient(45deg, #FFD700, #D2691E, #FFD700);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        text-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+        letter-spacing: 1px;
+      }
+
+      .temple-name-preloader .subtitle {
+        color: #f5e6d3;
+        font-size: 1.1rem;
+        opacity: 0.8;
+      }
+
+      @keyframes fadeInUp {
+        from {
+          opacity: 0;
+          transform: translateY(30px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      /* Progress Bar */
+      .progress-container {
+        width: 300px;
+        height: 4px;
+        background: rgba(255, 255, 255, 0.1);
+        border-radius: 2px;
+        margin-top: 40px;
+        overflow: hidden;
+        opacity: 0;
+        animation: fadeIn 0.5s ease-out 0.2s forwards;
+      }
+
+      .progress-bar {
+        height: 100%;
+        background: linear-gradient(90deg, #8B4513, #D2691E, #FFD700);
+        width: 0%;
+        animation: loadingProgress 2s ease-in-out forwards;
+        border-radius: 2px;
+      }
+
+      @keyframes loadingProgress {
+        0% { width: 0%; }
+        100% { width: 100%; }
+      }
+
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+
+      /* Bell Sound Wave */
+      .sound-wave {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        border: 2px solid #FFD700;
+        opacity: 0;
+        animation: soundWave 2s ease-out 0.5s infinite;
+      }
+
+      .sound-wave:nth-child(2) {
+        animation-delay: 0.2s;
+      }
+
+      .sound-wave:nth-child(3) {
+        animation-delay: 0.4s;
+      }
+
+      @keyframes soundWave {
+        0% {
+          transform: scale(0.5);
+          opacity: 0.5;
+        }
+        100% {
+          transform: scale(4);
+          opacity: 0;
+        }
+      }
+
+      /* Lotus Flower Animation */
+      .lotus-container {
+        position: absolute;
+        bottom: 50px;
+        opacity: 0;
+        animation: lotusFadeIn 1s ease-out 0.6s forwards;
+      }
+
+      .lotus-flower {
+        font-size: 3rem;
+        color: #FFD700;
+        animation: lotusFloat 4s ease-in-out infinite;
+      }
+
+      @keyframes lotusFadeIn {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 0.6; transform: translateY(0); }
+      }
+
+      @keyframes lotusFloat {
+        0%, 100% { transform: translateY(0) rotate(0deg); }
+        50% { transform: translateY(-10px) rotate(10deg); }
+      }
+
+      /* Divine Chant Text */
+      .chant-text {
+        position: absolute;
+        bottom: 100px;
+        color: rgba(255, 215, 0, 0.5);
+        font-size: 1.2rem;
+        font-family: 'Noto Sans Devanagari', sans-serif;
+        white-space: nowrap;
+        opacity: 0;
+        animation: chantAppear 2s ease-out 0.8s forwards;
+      }
+
+      @keyframes chantAppear {
+        from { opacity: 0; transform: translateX(-100%); }
+        to { opacity: 0.5; transform: translateX(0); }
+      }
+
+      /* Loading Text */
+      .loading-text {
+        color: #D2691E;
+        font-size: 0.9rem;
+        margin-top: 20px;
+        opacity: 0;
+        animation: textBlink 1.5s ease-in-out 1s infinite;
+      }
+
+      @keyframes textBlink {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 1; }
+      }
+
+      /* Fade Out Animation */
+      .fade-out {
+        animation: fadeOut 1s ease-out forwards;
+      }
+
+      @keyframes fadeOut {
+        from { opacity: 1; }
+        to { opacity: 0; visibility: hidden; }
+      }
+
+      /* Responsive Styles */
+      @media (max-width: 768px) {
+        .om-symbol {
+          font-size: 4rem;
+        }
+        
+        .temple-name-preloader h1 {
+          font-size: 1.8rem;
+        }
+        
+        .progress-container {
+          width: 200px;
+        }
+        
+        .lotus-container {
+          bottom: 30px;
+        }
+        
+        .lotus-flower {
+          font-size: 2rem;
+        }
+        
+        .chant-text {
+          font-size: 1rem;
+          bottom: 70px;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .om-symbol {
+          font-size: 3rem;
+        }
+        
+        .temple-name-preloader h1 {
+          font-size: 1.5rem;
+        }
+        
+        .temple-name-preloader .subtitle {
+          font-size: 0.9rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Divine Preloader -->
+    <div class="divine-preloader" id="divinePreloader">
+      <!-- Divine Glow Effect -->
+      <div class="divine-glow"></div>
+      
+      <!-- Sound Waves -->
+      <div class="sound-wave"></div>
+      <div class="sound-wave"></div>
+      <div class="sound-wave"></div>
+      
+      <!-- OM Symbol -->
+      <div class="om-symbol-container">
+        <div class="om-symbol">ॐ</div>
+      </div>
+      
+      <!-- Temple Name -->
+      <div class="temple-name-preloader">
+        <h1>श्री विद्या वेंकटेश्वर स्वामी मंदिर</h1>
+        <div class="subtitle">Centurion University, Paralakhemundi</div>
+      </div>
+      
+      <!-- Progress Bar -->
+      <div class="progress-container">
+        <div class="progress-bar"></div>
+      </div>
+      
+      <!-- Divine Chant -->
+      <div class="chant-text">ॐ नमो भगवते वासुदेवाय</div>
+      
+      <!-- Lotus Flower -->
+      <div class="lotus-container">
+        <div class="lotus-flower">🪷</div>
+      </div>
+      
+      <!-- Loading Text -->
+      <div class="loading-text">Entering Divine Space...</div>
+    </div>
+    
+    <!-- Main App -->
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+    
+    <script>
+      // Create divine particles
+      function createParticles() {
+        const preloader = document.getElementById('divinePreloader');
+        const particleCount = 20;
+        
+        for (let i = 0; i < particleCount; i++) {
+          const particle = document.createElement('div');
+          particle.className = 'divine-particle';
+          
+          // Random properties
+          const size = Math.random() * 5 + 2;
+          const left = Math.random() * 100;
+          const delay = Math.random() * 5;
+          const duration = Math.random() * 10 + 15;
+          
+          particle.style.width = `${size}px`;
+          particle.style.height = `${size}px`;
+          particle.style.left = `${left}vw`;
+          particle.style.animationDelay = `${delay}s`;
+          particle.style.animationDuration = `${duration}s`;
+          
+          preloader.appendChild(particle);
+        }
+      }
+      
+      // Preloader removal with animation
+      function removePreloader() {
+        const preloader = document.getElementById('divinePreloader');
+        
+        // Add fade out class
+        preloader.classList.add('fade-out');
+        
+        // Remove preloader after animation completes
+        setTimeout(() => {
+          preloader.style.display = 'none';
+          
+          // Play temple bell sound (optional)
+          try {
+            const audio = new Audio('https://assets.mixkit.co/sfx/preview/mixkit-temple-bell-905.mp3');
+            audio.volume = 0.3;
+            audio.play().catch(e => console.log("Audio play failed:", e));
+          } catch (e) {
+            console.log("Audio error:", e);
+          }
+        }, 1000);
+      }
+      
+      // Initialize when page loads
+      document.addEventListener('DOMContentLoaded', () => {
+        // Create particles
+        createParticles();
+        
+        // Remove preloader after 2 seconds
+        setTimeout(removePreloader, 2000);
+        
+        // Optional: Add keyboard shortcut to skip preloader
+        document.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape' || e.key === ' ') {
+            removePreloader();
+          }
+        });
+        
+        // Optional: Click to skip preloader
+        document.getElementById('divinePreloader').addEventListener('click', removePreloader);
+      });
+      
+      // Handle page visibility change
+      document.addEventListener('visibilitychange', () => {
+        if (document.visibilityState === 'visible') {
+          // Page became visible again
+          const preloader = document.getElementById('divinePreloader');
+          if (preloader.style.display !== 'none') {
+            setTimeout(removePreloader, 1000);
+          }
+        }
+      });
+    </script>
+  </body>
+</html>

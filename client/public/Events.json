@@ -1,0 +1,752 @@
+[
+  {
+    "year": "2025",
+    "month": "December",
+    "events": [
+      {
+        "date": "2025-12-01",
+        "event": "Mokshada Ekadashi / Gita Jayanti",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Day when Lord Krishna spoke the Bhagavad Gita."
+      },
+      {
+        "date": "2025-12-02",
+        "event": "Margashirsha Purnima",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Full moon of Margashirsha month."
+      },
+      {
+        "date": "2025-12-04",
+        "event": "Karthigai Deepam",
+        "region": "Tamil Nadu",
+        "type": "Major Festival",
+        "description": "Massive deepam lit on Arunachala hill; festival of lights."
+      },
+      {
+        "date": "2025-12-04",
+        "event": "Dattatreya Jayanti",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Birth of Lord Dattatreya."
+      },
+      {
+        "date": "2025-12-16",
+        "event": "Dhanu Sankranti",
+        "region": "Odisha",
+        "type": "Solar Festival",
+        "description": "Surya enters Dhanu Rashi."
+      },
+      {
+        "date": "2025-12-17",
+        "event": "Safala Ekadashi",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Ekadashi for prosperity."
+      },
+      {
+        "date": "2025-12-30",
+        "event": "Pausha Putrada Ekadashi",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Observed by couples praying for children."
+      },
+      {
+        "date": "2025-12-31",
+        "event": "Vaikuntha Ekadashi",
+        "region": "South India",
+        "type": "Major Religious",
+        "description": "Opening of Vaikuntha Dwaram."
+      }
+    ]
+  },
+
+  {
+    "year": "2026",
+    "events": [
+      {
+        "date": "2026-01-06",
+        "event": "Paush Purnima",
+        "region": "North India",
+        "type": "Religious",
+        "description": "End of Paush month; start of Magh snan rituals."
+      },
+      {
+        "date": "2026-01-10",
+        "event": "Safala Ekadashi",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Auspicious Ekadashi."
+      },
+      {
+        "date": "2026-01-13",
+        "event": "Lohri",
+        "region": "Punjab",
+        "type": "Harvest",
+        "description": "Bonfire festival."
+      },
+      {
+        "date": "2026-01-14",
+        "event": "Makar Sankranti / Pongal / Bihu",
+        "region": "All India",
+        "type": "Major Harvest Festival",
+        "description": "Sun enters Capricorn."
+      },
+      {
+        "date": "2026-01-15",
+        "event": "Mattu Pongal",
+        "region": "Tamil Nadu",
+        "type": "Cultural",
+        "description": "Cattle worship day."
+      },
+      {
+        "date": "2026-01-23",
+        "event": "Vasant Panchami",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Saraswati Puja; beginning of spring."
+      },
+      {
+        "date": "2026-01-29",
+        "event": "Magha Purnima",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Important bathing festival."
+      },
+      {
+        "date": "2026-02-01",
+        "event": "Thaipusam",
+        "region": "Tamil Nadu",
+        "type": "Religious",
+        "description": "Kavadi offerings to Murugan."
+      },
+      {
+        "date": "2026-02-12",
+        "event": "Jaya Ekadashi",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Major Ekadashi of Magha month."
+      },
+      {
+        "date": "2026-02-15",
+        "event": "Maha Shivaratri",
+        "region": "All India",
+        "type": "Major Religious",
+        "description": "Night of Shiva."
+      },
+      {
+        "date": "2026-03-03",
+        "event": "Holika Dahan",
+        "region": "India",
+        "type": "Religious",
+        "description": "Burning of Holika."
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Holi",
+        "region": "All India",
+        "type": "Major Festival",
+        "description": "Festival of colors."
+      },
+      {
+        "date": "2026-03-10",
+        "event": "Papmochani Ekadashi",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Ekadashi that cleanses sins."
+      },
+      {
+        "date": "2026-03-19",
+        "event": "Ugadi / Gudi Padwa / Navratri Start",
+        "region": "All India",
+        "type": "New Year",
+        "description": "Start of Hindu New Year."
+      },
+      {
+        "date": "2026-03-26",
+        "event": "Rama Navami",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Birth of Lord Rama."
+      },
+      {
+        "date": "2026-04-02",
+        "event": "Hanuman Jayanti",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Birth of Hanuman."
+      },
+      {
+        "date": "2026-04-14",
+        "event": "Puthandu / Vishu / Baisakhi",
+        "region": "India",
+        "type": "New Year",
+        "description": "Solar New Year celebrations."
+      },
+      {
+        "date": "2026-04-19",
+        "event": "Akshaya Tritiya",
+        "region": "All India",
+        "type": "Auspicious",
+        "description": "Important day for new beginnings."
+      },
+      {
+        "date": "2026-05-09",
+        "event": "Narasimha Jayanti",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Appearance day of Lord Narasimha."
+      },
+      {
+        "date": "2026-05-16",
+        "event": "Vat Savitri",
+        "region": "North India",
+        "type": "Religious",
+        "description": "Fasting for husband’s long life."
+      },
+      {
+        "date": "2026-07-16",
+        "event": "Rath Yatra",
+        "region": "Puri",
+        "type": "Major Festival",
+        "description": "Chariot festival of Jagannath."
+      },
+      {
+        "date": "2026-08-17",
+        "event": "Nag Panchami",
+        "region": "India",
+        "type": "Religious",
+        "description": "Snake worship festival."
+      },
+      {
+        "date": "2026-08-28",
+        "event": "Raksha Bandhan",
+        "region": "All India",
+        "type": "Festival",
+        "description": "Rakhi celebration."
+      },
+      {
+        "date": "2026-09-02",
+        "event": "Rishi Panchami",
+        "region": "All India",
+        "type": "Religious",
+        "description": "Day honoring Saptarishis."
+      },
+      {
+        "date": "2026-09-04",
+        "event": "Janmashtami",
+        "region": "All India",
+        "type": "Major Festival",
+        "description": "Birth of Krishna."
+      },
+      {
+        "date": "2026-09-14",
+        "event": "Ganesh Chaturthi",
+        "region": "All India",
+        "type": "Major Festival",
+        "description": "Festival for Lord Ganesha."
+      },
+      {
+        "date": "2026-10-10",
+        "event": "Mahalaya Amavasya",
+        "region": "All India",
+        "type": "Pitru Ritual",
+        "description": "Final day of Pitru Paksha."
+      },
+      {
+        "date": "2026-10-11",
+        "event": "Sharad Navratri Start",
+        "region": "All India",
+        "type": "Major Festival",
+        "description": "Start of Devi Navratri."
+      },
+      {
+        "date": "2026-10-19",
+        "event": "Durga Ashtami",
+        "region": "India",
+        "type": "Major Festival",
+        "description": "Peak day of Navratri."
+      },
+      {
+        "date": "2026-10-20",
+        "event": "Dussehra",
+        "region": "All India",
+        "type": "Major Festival",
+        "description": "Victory of good over evil."
+      },
+      {
+        "date": "2026-11-06",
+        "event": "Dhanteras",
+        "region": "All India",
+        "type": "Festival",
+        "description": "Start of Diwali."
+      },
+      {
+        "date": "2026-11-07",
+        "event": "Naraka Chaturdashi",
+        "region": "South India",
+        "type": "Festival",
+        "description": "Killing of demon Narakasura."
+      },
+      {
+        "date": "2026-11-08",
+        "event": "Diwali",
+        "region": "India",
+        "type": "Major Festival",
+        "description": "Festival of Lights."
+      },
+      {
+        "date": "2026-12-20",
+        "event": "Gita Jayanti",
+        "region": "India",
+        "type": "Religious",
+        "description": "Anniversary of Bhagavad Gita."
+      }
+    ]
+  },
+
+  {
+    "year": "2027",
+    "events": [
+      {
+        "date": "2027-01-05",
+        "event": "Paush Purnima",
+        "region": "India",
+        "type": "Religious",
+        "description": "Full moon of Paush."
+      },
+      {
+        "date": "2027-01-14",
+        "event": "Lohri",
+        "region": "Punjab",
+        "type": "Harvest",
+        "description": "Winter bonfire festival."
+      },
+      {
+        "date": "2027-01-15",
+        "event": "Makar Sankranti / Pongal",
+        "region": "India",
+        "type": "Harvest",
+        "description": "Solar transition festival."
+      },
+      {
+        "date": "2027-02-11",
+        "event": "Vasant Panchami",
+        "region": "India",
+        "type": "Cultural",
+        "description": "Arrival of spring."
+      },
+      {
+        "date": "2027-02-27",
+        "event": "Magha Purnima",
+        "region": "India",
+        "type": "Religious",
+        "description": "Magh snan ending."
+      },
+      {
+        "date": "2027-03-06",
+        "event": "Maha Shivaratri",
+        "region": "India",
+        "type": "Major Festival",
+        "description": "Night of Shiva."
+      },
+      {
+        "date": "2027-03-21",
+        "event": "Holika Dahan",
+        "region": "India",
+        "type": "Religious",
+        "description": "Holika bonfire."
+      },
+      {
+        "date": "2027-03-22",
+        "event": "Holi",
+        "region": "India",
+        "type": "Festival",
+        "description": "Festival of colors."
+      },
+      {
+        "date": "2027-04-07",
+        "event": "Ugadi / Gudi Padwa",
+        "region": "India",
+        "type": "New Year",
+        "description": "Lunar New Year."
+      },
+      {
+        "date": "2027-04-10",
+        "event": "Chaitra Navratri Start",
+        "region": "India",
+        "type": "Festival",
+        "description": "Nine nights of Devi worship."
+      },
+      {
+        "date": "2027-04-14",
+        "event": "Puthandu / Vishu / Baisakhi",
+        "region": "India",
+        "type": "Solar New Year",
+        "description": "Start of solar new year."
+      },
+      {
+        "date": "2027-04-15",
+        "event": "Rama Navami",
+        "region": "India",
+        "type": "Religious",
+        "description": "Birth of Lord Rama."
+      },
+      {
+        "date": "2027-04-20",
+        "event": "Hanuman Jayanti",
+        "region": "India",
+        "type": "Religious",
+        "description": "Birth of Hanuman."
+      },
+      {
+        "date": "2027-05-09",
+        "event": "Akshaya Tritiya",
+        "region": "India",
+        "type": "Auspicious",
+        "description": "Day for new beginnings."
+      },
+      {
+        "date": "2027-07-05",
+        "event": "Rath Yatra",
+        "region": "Puri",
+        "type": "Major Festival",
+        "description": "Jagannath Rath Yatra."
+      },
+      {
+        "date": "2027-08-06",
+        "event": "Nag Panchami",
+        "region": "India",
+        "type": "Religious",
+        "description": "Snake worship festival."
+      },
+      {
+        "date": "2027-08-17",
+        "event": "Raksha Bandhan",
+        "region": "India",
+        "type": "Festival",
+        "description": "Raksha Bandhan."
+      },
+      {
+        "date": "2027-08-25",
+        "event": "Janmashtami",
+        "region": "India",
+        "type": "Major Festival",
+        "description": "Birth of Krishna."
+      },
+      {
+        "date": "2027-09-04",
+        "event": "Ganesh Chaturthi",
+        "region": "India",
+        "type": "Festival",
+        "description": "Arrival of Ganesha."
+      },
+      {
+        "date": "2027-09-29",
+        "event": "Mahalaya Amavasya",
+        "region": "India",
+        "type": "Religious",
+        "description": "End of Pitru Paksha."
+      },
+      {
+        "date": "2027-10-07",
+        "event": "Durga Puja Start",
+        "region": "India",
+        "type": "Festival",
+        "description": "Beginning of Durga Puja."
+      },
+      {
+        "date": "2027-10-09",
+        "event": "Dussehra",
+        "region": "India",
+        "type": "Festival",
+        "description": "Victory of Dharma."
+      },
+      {
+        "date": "2027-10-27",
+        "event": "Dhanteras",
+        "region": "India",
+        "type": "Festival",
+        "description": "Start of Deepavali."
+      },
+      {
+        "date": "2027-10-29",
+        "event": "Diwali",
+        "region": "India",
+        "type": "Festival",
+        "description": "Festival of Lights."
+      },
+      {
+        "date": "2027-12-09",
+        "event": "Gita Jayanti",
+        "region": "India",
+        "type": "Religious",
+        "description": "Birth of Bhagavad Gita."
+      }
+    ]
+  },
+
+  {
+    "year": "2028",
+    "events": [
+      {
+        "date": "2028-01-14",
+        "event": "Lohri",
+        "region": "Punjab",
+        "type": "Harvest",
+        "description": "Bonfire festival."
+      },
+      {
+        "date": "2028-01-15",
+        "event": "Makar Sankranti",
+        "region": "India",
+        "type": "Harvest",
+        "description": "Sun enters Capricorn."
+      },
+      {
+        "date": "2028-02-09",
+        "event": "Thaipusam",
+        "region": "Tamil Nadu",
+        "type": "Religious",
+        "description": "Festival of Murugan."
+      },
+      {
+        "date": "2028-02-23",
+        "event": "Maha Shivaratri",
+        "region": "India",
+        "type": "Major Religious",
+        "description": "Night of Shiva."
+      },
+      {
+        "date": "2028-03-11",
+        "event": "Holi",
+        "region": "India",
+        "type": "Major Festival",
+        "description": "Festival of Colors."
+      },
+      {
+        "date": "2028-03-27",
+        "event": "Ugadi / Gudi Padwa",
+        "region": "India",
+        "type": "New Year",
+        "description": "Lunar new year."
+      },
+      {
+        "date": "2028-04-13",
+        "event": "Puthandu / Vishu / Baisakhi",
+        "region": "India",
+        "type": "Solar New Year",
+        "description": "Solar New Year celebrations."
+      },
+      {
+        "date": "2028-04-27",
+        "event": "Akshaya Tritiya",
+        "region": "India",
+        "type": "Auspicious",
+        "description": "Day of eternal prosperity."
+      },
+      {
+        "date": "2028-06-24",
+        "event": "Rath Yatra",
+        "region": "Puri",
+        "type": "Major Festival",
+        "description": "Chariot festival."
+      },
+      {
+        "date": "2028-08-05",
+        "event": "Raksha Bandhan",
+        "region": "India",
+        "type": "Festival",
+        "description": "Rakhi celebration."
+      },
+      {
+        "date": "2028-08-13",
+        "event": "Janmashtami",
+        "region": "India",
+        "type": "Major Festival",
+        "description": "Birth of Krishna."
+      },
+      {
+        "date": "2028-08-23",
+        "event": "Ganesh Chaturthi",
+        "region": "India",
+        "type": "Festival",
+        "description": "Arrival of Ganesha."
+      },
+      {
+        "date": "2028-09-01",
+        "event": "Onam",
+        "region": "Kerala",
+        "type": "Cultural",
+        "description": "Harvest festival of Kerala."
+      },
+      {
+        "date": "2028-10-17",
+        "event": "Diwali",
+        "region": "India",
+        "type": "Festival",
+        "description": "Festival of Lights."
+      },
+      {
+        "date": "2028-11-27",
+        "event": "Gita Jayanti",
+        "region": "India",
+        "type": "Religious",
+        "description": "Gita celebration."
+      }
+    ]
+  },
+
+  {
+    "year": "2029",
+    "events": [
+      {
+        "date": "2029-01-14",
+        "event": "Makar Sankranti",
+        "region": "India",
+        "type": "Harvest",
+        "description": "Sun’s transit."
+      },
+      {
+        "date": "2029-01-30",
+        "event": "Thaipusam",
+        "region": "Tamil Nadu",
+        "type": "Religious",
+        "description": "Devotion to Murugan."
+      },
+      {
+        "date": "2029-03-01",
+        "event": "Holi",
+        "region": "India",
+        "type": "Festival",
+        "description": "Festival of Colors."
+      },
+      {
+        "date": "2029-04-14",
+        "event": "Ugadi / Gudi Padwa / Puthandu",
+        "region": "India",
+        "type": "New Year",
+        "description": "Lunar and Solar new year alignment."
+      },
+      {
+        "date": "2029-05-16",
+        "event": "Akshaya Tritiya",
+        "region": "India",
+        "type": "Auspicious",
+        "description": "Day of prosperity."
+      },
+      {
+        "date": "2029-08-23",
+        "event": "Raksha Bandhan",
+        "region": "India",
+        "type": "Festival",
+        "description": "Rakhi celebration."
+      },
+      {
+        "date": "2029-09-01",
+        "event": "Janmashtami",
+        "region": "India",
+        "type": "Major Religious",
+        "description": "Birth of Krishna."
+      },
+      {
+        "date": "2029-09-11",
+        "event": "Ganesh Chaturthi",
+        "region": "India",
+        "type": "Festival",
+        "description": "Ganesha festival."
+      },
+      {
+        "date": "2029-11-05",
+        "event": "Diwali",
+        "region": "India",
+        "type": "Festival",
+        "description": "Deepavali celebration."
+      },
+      {
+        "date": "2029-12-16",
+        "event": "Gita Jayanti",
+        "region": "India",
+        "type": "Religious",
+        "description": "Gita celebration."
+      }
+    ]
+  },
+
+  {
+    "year": "2030",
+    "events": [
+      {
+        "date": "2030-01-14",
+        "event": "Makar Sankranti",
+        "region": "India",
+        "type": "Harvest",
+        "description": "Sun enters Capricorn."
+      },
+      {
+        "date": "2030-02-07",
+        "event": "Vasant Panchami",
+        "region": "India",
+        "type": "Cultural",
+        "description": "Beginning of spring."
+      },
+      {
+        "date": "2030-03-20",
+        "event": "Holi",
+        "region": "India",
+        "type": "Festival",
+        "description": "Festival of Colors."
+      },
+      {
+        "date": "2030-04-03",
+        "event": "Ugadi / Gudi Padwa / Tamil Puthandu",
+        "region": "India",
+        "type": "New Year",
+        "description": "Multiple calendars start here."
+      },
+      {
+        "date": "2030-05-05",
+        "event": "Akshaya Tritiya",
+        "region": "India",
+        "type": "Auspicious",
+        "description": "Day of prosperity."
+      },
+      {
+        "date": "2030-08-13",
+        "event": "Raksha Bandhan",
+        "region": "India",
+        "type": "Festival",
+        "description": "Rakhi festival."
+      },
+      {
+        "date": "2030-08-21",
+        "event": "Janmashtami",
+        "region": "India",
+        "type": "Festival",
+        "description": "Birth of Krishna."
+      },
+      {
+        "date": "2030-09-01",
+        "event": "Ganesh Chaturthi",
+        "region": "India",
+        "type": "Festival",
+        "description": "Ganesha festival begins."
+      },
+      {
+        "date": "2030-10-26",
+        "event": "Diwali",
+        "region": "India",
+        "type": "Major Festival",
+        "description": "Festival of Lights."
+      },
+      {
+        "date": "2030-12-05",
+        "event": "Gita Jayanti",
+        "region": "India",
+        "type": "Religious",
+        "description": "Birth of Bhagavad Gita."
+      }
+    ]
+  }
+]

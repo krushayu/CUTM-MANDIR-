@@ -1,0 +1,148 @@
+/* Fonts - Hum ek Google font import kar rahe hain jo thoda traditional dikhe */
+@import url('https://fonts.googleapis.com/css2?family=Rozha+One&family=Poppins:wght@400;600&display=swap');
+
+/* Full Page Background */
+.mandir-login-container {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Warm Cream background with a central glow simulation */
+  /* background: radial-gradient(circle at center, #fffdd0 0%, #fceabb 70%, #f8d49d 100%); */
+  /* Agar aapke paas background image hai (ghanti/rangoli wali), to use yahan lagayein:
+  */ 
+  background-image: url('/bg2.png');
+  background-size: 50% auto; /* Width 60%, height auto maintain */
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* The Arch-shaped Card */
+.login-arch-card {
+  background: rgba(194, 96, 146, 0.95);  
+  width: 100%;
+  max-width: 450px;
+  padding: 40px 30px;
+  text-align: center;
+  position: relative;
+
+  /* Creating the Arch shape */
+  border-top-left-radius: 225px; /* Half of max-width to make it a perfect semi-circle top */
+  border-top-right-radius: 225px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+
+  /* Golden Border and Glow Shadow */
+  border: 3px solid #FFD700;
+  box-shadow: 0 0 25px rgba(255, 215, 0, 0.4), inset 0 0 15px rgba(255, 215, 0, 0.2);
+}
+
+/* Header Section (Om, Title) */
+.login-header {
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+
+.om-icon {
+  color: #FF9933; /* Saffron color */
+  font-size: 3rem;
+  margin-bottom: -10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mandir-title {
+  font-family: 'Rozha One', serif; /* Decorative font */
+  color: #800000; /* Deep Maroon */
+  font-size: 2.2rem;
+  margin: 10px 0;
+  line-height: 1.2;
+}
+
+/* Error Message */
+.error-msg {
+  color: #d8000c;
+  background-color: #ffd2d2;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  font-size: 0.9rem;
+}
+
+/* Input Fields Styling */
+.input-group {
+  margin-bottom: 25px;
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid #FFD700; /* Golden underline */
+  padding-bottom: 5px;
+  transition: border-color 0.3s;
+}
+
+.input-group:focus-within {
+  border-bottom-color: #FF9933; /* Saffron on focus */
+}
+
+.input-icon {
+  color: #800000; /* Maroon icon color */
+  font-size: 1.5rem;
+  margin-right: 15px;
+}
+
+.mandir-input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  outline: none;
+  font-size: 1.1rem;
+  color: #333;
+  font-family: 'Poppins', sans-serif;
+}
+
+.mandir-input::placeholder {
+  color: #999;
+}
+
+/* Button Styling */
+.login-btn {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  /* background: linear-gradient(to right, #28a745, #20c997); */
+  border-radius: 50px; 
+  color: bluewhite;
+  font-size: 1.3rem;
+  /* font-family: 'Rozha One', serif; */
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(40, 167, 69, 0.4);
+  transition: transform 0.2s, box-shadow 0.2s;
+  margin-top: 10px;
+}
+/* 
+.login-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(40, 167, 69, 0.6);
+} */
+
+/* .login-btn:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+} */
+
+/* Footer Link */
+.signup-link {
+  margin-top: 25px;
+  font-size: 1rem;
+  color: #333;
+}
+
+.signup-link a {
+  color: #800000;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 1px dashed #800000;
+}

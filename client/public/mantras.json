@@ -1,0 +1,1502 @@
+[
+  {
+    "category": "Venkateswara",
+    "sanskrit": "कौसल्या सुप्रजा राम पूर्वा संध्या प्रवर्तते । उत्तिष्ठ नरशार्दूल कर्तव्यं दैवमाह्निकम् ॥",
+    "hindi_meaning": "हे कौसल्या के सुपुत्र राम, पूर्व दिशा में सवेरा हो रहा है। हे पुरुषोत्तम, उठिए और अपने दैनिक दैवीय कर्तव्यों का पालन कीजिए।",
+    "english_meaning": "O Rama, the noble son of Kausalya, the dawn is breaking in the East. O tiger among men, please wake up; the daily divine duties are to be performed."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "विना वेङ्कटेशं न नाथो न नाथः सदा वेङ्कटेशं स्मरामि स्मरामि । हरे वेङ्कटेश प्रसीद प्रसीद प्रियं वेङ्कटेशं प्रयच्छ प्रयच्छ ॥",
+    "hindi_meaning": "वेङ्कटेश के बिना मेरा कोई नाथ नहीं है, मैं सदा उनका ही स्मरण करता हूँ। हे हरि वेङ्कटेश, प्रसन्न होइए और मुझे अपना प्रिय मानकर कृपा प्रदान कीजिए।",
+    "english_meaning": "Without Venkateswara, there is no Lord for me; I remember Him always. O Hari Venkateswara, be pleased with me and grant me your grace."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् । प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये ॥",
+    "hindi_meaning": "जो श्वेत वस्त्र धारण करते हैं, जिनका वर्ण चंद्रमा के समान है, जो चतुर्भुज और प्रसन्न मुख वाले हैं, सभी विघ्नों की शांति के लिए मैं उनका ध्यान करता हूँ।",
+    "english_meaning": "I meditate upon Lord Vishnu, who wears white clothes, is the color of the moon, has four arms, and a pleasant face, to remove all obstacles."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् । उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय माऽमृतात् ॥",
+    "hindi_meaning": "हम त्रिनेत्रधारी शिव की पूजा करते हैं, जो सुगंधित हैं और पुष्टि को बढ़ाते हैं। जैसे ककड़ी बेल से अलग होती है, वैसे ही हम मृत्यु के बंधन से मुक्त हों, अमरता से नहीं।",
+    "english_meaning": "We worship the Three-Eyed One (Shiva), who is fragrant and nourishes all beings. May He liberate us from death for the sake of immortality, just as a cucumber is severed from its bondage to the creeper."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके । शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते ॥",
+    "hindi_meaning": "हे नारायणी, तुम सभी मंगलों में मंगलमयी हो, कल्याणकारी हो, सभी उद्देश्यों को पूरा करने वाली हो, शरण देने वाली हो, तीन नेत्रों वाली गौरी हो, तुम्हें नमस्कार है।",
+    "english_meaning": "O Narayani, you are the auspiciousness in all that is auspicious, the accomplish-er of all goals, the source of refuge, the three-eyed Gauri. I bow to you."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "नमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते । शङ्खचक्रगदाहस्ते महालक्ष्मि नमोऽस्तु ते ॥",
+    "hindi_meaning": "हे महामाया, श्रीपीठ पर स्थित और देवताओं द्वारा पूजित, हाथ में शंख, चक्र और गदा धारण करने वाली महालक्ष्मी, आपको नमस्कार है।",
+    "english_meaning": "Salutations to you, O Mahamaya, who resides on the Sri Peetha and is worshipped by the Devas. O Mahalakshmi, holder of the conch, discus, and mace, I bow to you."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "क ए ई ल ह्रीं ह स क ह ल ह्रीं स क ल ह्रीं ॥",
+    "hindi_meaning": "यह पंचदशी मंत्र है जो ललिता त्रिपुरसुन्दरी का मूल मंत्र है (बीज मंत्रों का समूह)।",
+    "english_meaning": "This is the Panchadashi Mantra, the core mantra of Lalita Tripurasundari consisting of fifteen syllables."
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "ॐ नमो नारायणाय ॥",
+    "hindi_meaning": "मैं भगवान नारायण को नमन करता हूँ। (अष्टाक्षर मंत्र)",
+    "english_meaning": "I bow to Lord Narayana. (The eight-syllabled mantra)."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "श्रियः कान्ताय कल्याणनिधये निधयेऽर्थिनाम् । श्रीवेङ्कटनिवासाय श्रीनिवासाय मङ्गलम् ॥",
+    "hindi_meaning": "लक्ष्मी के पति, कल्याण के भंडार, याचकों के लिए धन स्वरूप, वेंकटाचल पर निवास करने वाले श्रीनिवास का मंगल हो।",
+    "english_meaning": "May auspiciousness betide Srinivasa, the dweller of Venkatachala, the beloved of Lakshmi, the treasure of goodness, and the provider of wealth to seekers."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् ॥",
+    "hindi_meaning": "जिनकी आकृति शांत है, जो शेषनाग पर शयन करते हैं, जिनकी नाभि में कमल है, जो देवताओं के ईश्वर और विश्व के आधार हैं।",
+    "english_meaning": "I salute Vishnu, who has a serene appearance, rests on a serpent, has a lotus in his navel, is the lord of gods, and the support of the universe."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता । नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥",
+    "hindi_meaning": "जो देवी सभी प्राणियों में शक्ति के रूप में स्थित हैं, उनको नमस्कार, उनको नमस्कार, उनको बारंबार नमस्कार है।",
+    "english_meaning": "To the Goddess who abides in all beings in the form of power (Shakti), salutations to Her, salutations to Her, salutations to Her again and again."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "कर्पूरगौरं करुणावतारं संसारसारं भुजगेन्द्रहारम् । सदा वसन्तं हृदयारविन्दे भवं भवानीसहितं नमामि ॥",
+    "hindi_meaning": "जो कर्पूर के समान गौर हैं, करुणा के अवतार हैं, संसार के सार हैं, सर्पों का हार पहनते हैं, वे भगवान शिव माता भवानी के साथ मेरे हृदय में सदा निवास करें।",
+    "english_meaning": "I bow to Shiva, who is as white as camphor, the incarnation of compassion, the essence of the world, wearing a serpent garland, residing always in the lotus of the heart with Bhavani."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "ॐ ऐं ह्रीं श्रीं ललिताम्बिकायै नमः ॥",
+    "hindi_meaning": "माँ ललिता अम्बिका को नमस्कार। (बीज मंत्र युक्त)",
+    "english_meaning": "Om, salutations to Mother Lalita Ambika (with Beeja mantras Aim, Hreem, Shreem)."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "पद्मानने पद्मविपद्मपत्रे पद्मप्रिये पद्मदलायताक्षि । विश्वप्रिये विश्वमनोऽनुकूले त्वत्पादपद्मं मयि सन्निधत्स्व ॥",
+    "hindi_meaning": "कमल के समान मुख वाली, कमल को प्रिय मानने वाली, कमल दल जैसे नेत्रों वाली, विश्व को प्रिय, मेरे हृदय में अपने चरण कमल स्थापित करें।",
+    "english_meaning": "O One with a lotus face, who loves lotuses, with eyes like lotus petals, beloved of the universe, please place your lotus feet in my heart."
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "कायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतिस्वभावात् । करोमि यद्यत्सकलं परस्मै नारायणायेति समर्पयामि ॥",
+    "hindi_meaning": "शरीर, वाणी, मन, इंद्रियों, बुद्धि या स्वभाव से जो कुछ भी मैं करता हूँ, वह सब मैं भगवान नारायण को समर्पित करता हूँ।",
+    "english_meaning": "Whatever I do with my body, speech, mind, senses, intellect, or my nature, I offer it all to the Supreme Lord Narayana."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "ईशानां जगतोऽस्य वेङ्कटपतेर्विष्णोः परां प्रेयसीं तद्वक्षःस्थलनित्यवाससिकतां तत्क्षान्तिसंवर्धिनीम् ।",
+    "hindi_meaning": "जगत के स्वामी वेंकटेश की प्रिय, उनके वक्षस्थल पर सदा निवास करने वाली, उनकी क्षमा को बढ़ाने वाली (देवी लक्ष्मी का ध्यान)।",
+    "english_meaning": "The beloved of Venkatesha, the Lord of the Universe, who eternally resides on His chest and enhances His forgiveness."
+  },
+  {
+    "category": "Trimurti",
+    "sanskrit": "गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः । गुरुः साक्षात् परब्रह्म तस्मै श्रीगुरवे नमः ॥",
+    "hindi_meaning": "गुरु ही ब्रह्मा हैं, गुरु ही विष्णु हैं, गुरु ही शिव हैं। गुरु ही साक्षात् परब्रह्म हैं, उन सद्गुरु को मेरा नमस्कार है।",
+    "english_meaning": "Guru is Brahma, Guru is Vishnu, Guru is Shiva. Guru is the Supreme Absolute. Salutations to that Sri Guru."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय । नित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय ॥",
+    "hindi_meaning": "जो नागराज को हार रूप में धारण करते हैं, तीन नेत्र वाले हैं, भस्म रमाते हैं, दिशाएं ही जिनका वस्त्र हैं, उस 'न' अक्षर स्वरूप शिव को नमस्कार।",
+    "english_meaning": "Salutations to Shiva, who wears the king of snakes as a garland, has three eyes, is smeared with ashes, is eternal and pure, represented by the syllable 'Na'."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "अयि गिरिनन्दिनि नन्दितमेदिनि विश्वविनोदिनि नन्दनुते गिरिवरविन्ध्यशिरोऽधिनिवासिनि विष्णुविलासिनि जिष्णुनुते ॥",
+    "hindi_meaning": "हे गिरिराज की पुत्री, पृथ्वी को आनंदित करने वाली, विश्व का मनोरंजन करने वाली, विंध्याचल पर निवास करने वाली, विष्णु को प्रसन्न करने वाली देवी।",
+    "english_meaning": "O Daughter of the Mountain, who makes the earth happy, who rejoices with the universe, residing on the peak of the Vindhyas, who pleases Vishnu."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "यस्य स्मरणमात्रेण जन्मसंसारबन्धनात् । विमुच्यते नमस्तस्मै विष्णवे प्रभविष्णवे ॥",
+    "hindi_meaning": "जिनके स्मरण मात्र से जीव जन्म और संसार के बंधन से मुक्त हो जाता है, उन प्रभावशाली भगवान विष्णु को नमस्कार है।",
+    "english_meaning": "Salutations to that Lord Vishnu, the All-Powerful, by whose mere remembrance one is liberated from the bonds of birth and the world."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "श्रीमाता श्रीमहाराज्ञी श्रीमत्-सिंहासनेश्वरी । चिदग्नि-कुण्ड-सम्भूता देवकार्य-समुद्यता ॥",
+    "hindi_meaning": "शुभ माता, महान सम्राज्ञी, जो भव्य सिंहासन पर विराजमान हैं, जो चेतना की अग्नि से प्रकट हुईं और देवताओं के कार्य के लिए तत्पर हैं।",
+    "english_meaning": "The Auspicious Mother, the Great Empress, Ruler of the Lion-Throne, born from the fire of consciousness, ready for the divine purpose."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "कमलाकुचचूचुककुङ्कुमतो नियतारुणितातुलनीलतनो । कमलायतलोचन लोकपते विजयीभव वेङ्कटशैलपते ॥",
+    "hindi_meaning": "हे वेंकटेश! लक्ष्मी के वक्षस्थल के कुमकुम से जिनका नीला शरीर लाल हो गया है, कमल जैसे नेत्र वाले लोकपति, आपकी जय हो।",
+    "english_meaning": "O Lord of Venkata Hill, whose incomparable blue body is reddened by the kumkum from Lakshmi's chest, O Lord of the Universe with lotus eyes, be victorious."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "सिद्धबुद्धिप्रदे देवि भुक्तिमुक्तिप्रदायिनि । मन्त्रमूर्ते सदा देवि महालक्ष्मि नमोऽस्तु ते ॥",
+    "hindi_meaning": "सिद्धि और बुद्धि देने वाली, भोग और मोक्ष प्रदान करने वाली, मंत्र स्वरूपिणी हे महालक्ष्मी देवी, आपको सदा नमस्कार है।",
+    "english_meaning": "O Goddess who grants success and intelligence, worldly enjoyment and liberation, who is the embodiment of mantras, O Mahalakshmi, salutations to you."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "मङ्गलम् भगवान विष्णुः मङ्गलम् गरुडध्वजः । मङ्गलम् पुण्डरीकाक्षः मङ्गलाय तनो हरिः ॥",
+    "hindi_meaning": "भगवान विष्णु मंगलमय हैं, गरुड़ ध्वज वाले भगवान मंगलमय हैं, कमल नयन भगवान मंगलमय हैं, श्री हरि मंगल के धाम हैं।",
+    "english_meaning": "Auspicious is Lord Vishnu, auspicious is the One with the Garuda flag, auspicious is the Lotus-Eyed One, Hari is the abode of auspiciousness."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "ॐ तत्पुरुषाय विद्महे महादेवाय धीमहि । तन्नो रुद्रः प्रचोदयात् ॥",
+    "hindi_meaning": "हम उस परम पुरुष को जानते हैं, महादेव का ध्यान करते हैं। रुद्र हमें ज्ञान और सन्मार्ग की ओर प्रेरित करें। (रुद्र गायत्री)",
+    "english_meaning": "We realize that Supreme Being, we meditate upon Mahadeva. May Rudra inspire our intellect."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "ॐ दुं दुर्गायै नमः ॥",
+    "hindi_meaning": "माँ दुर्गा को नमस्कार। (दुर्गा बीज मंत्र)",
+    "english_meaning": "Om, salutations to Goddess Durga."
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणाय विद्महे वासुदेवाय धीमहि । तन्नो विष्णुः प्रचोदयात् ॥",
+    "hindi_meaning": "हम नारायण को जानते हैं, वासुदेव का ध्यान करते हैं। भगवान विष्णु हमें प्रेरित करें। (विष्णु गायत्री)",
+    "english_meaning": "We know Narayana, we meditate on Vasudeva. May Vishnu inspire us."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "अहमस्मि अपराध चकवर्ती करुणावनिधे कृपामयी । शरणं प्रपद्येऽहं तव पादपङ्कजम् ॥",
+    "hindi_meaning": "मैं अपराधों का सम्राट हूँ, और आप करुणा के सागर हैं। मैं आपके चरण कमलों की शरण लेता हूँ।",
+    "english_meaning": "I am the emperor of offenses, and You are the ocean of mercy. I surrender unto Your lotus feet."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "वनमाली गदी शार्ङ्गी शंखी चक्री च नन्दकी । श्रीमान् नारायणो विष्णुर्वासुदेवोऽभिरक्षतु ॥",
+    "hindi_meaning": "वनमाला, गदा, धनुष, शंख, चक्र और तलवार धारण करने वाले श्रीमान नारायण वासुदेव हमारी रक्षा करें।",
+    "english_meaning": "May Lord Narayana, who holds the forest garland, mace, bow, conch, discus, and sword, the glorious Vasudeva, protect us."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "सर्वशक्तिमयी शक्तिः सर्वकामप्रदायिनी । सर्वसिद्धिप्रदा देवी सर्वमङ्गलकारिणी ॥",
+    "hindi_meaning": "वह शक्ति जो सर्वशक्तिमान है, सभी कामनाओं को पूरा करने वाली, सभी सिद्धियाँ देने वाली और सब मंगल करने वाली है।",
+    "english_meaning": "The Shakti who is all-powerful, fulfiller of all desires, granter of all powers, and cause of all auspiciousness."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "कराग्रवसते लक्ष्मीः करमध्ये सरस्वती । करमूले तु गोविन्दः प्रभाते करदर्शनम् ॥",
+    "hindi_meaning": "हाथ के अग्र भाग में लक्ष्मी, मध्य में सरस्वती और मूल में गोविंद बसते हैं। इसलिए सुबह उठते ही हथेलियों के दर्शन करने चाहिए।",
+    "english_meaning": "Lakshmi dwells at the fingertips, Saraswati in the middle, and Govinda at the base of the palm. Thus, one should look at one's palms in the morning."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "ॐ श्रीं ह्रीं श्रीं कमले कमलालये प्रसीद प्रसीद ॐ श्रीं ह्रीं श्रीं महालक्ष्म्यै नमः ॥",
+    "hindi_meaning": "हे कमल पर विराजमान महालक्ष्मी, मुझ पर प्रसन्न हों। मैं आपको नमन करता हूँ। (महालक्ष्मी मंत्र)",
+    "english_meaning": "Om, O Mahalakshmi residing on the lotus, be pleased with me. I bow to you."
+  },
+  {
+    "category": "Balaji",
+    "sanskrit": "गोविन्दा गोविन्दा गोविन्दा पाही नः । गोविन्दा गोविन्दा गोविन्दा र​क्ष नः ॥",
+    "hindi_meaning": "हे गोविंदा, हे गोविंदा, हमारी रक्षा करें। हे गोविंदा, हमारा पालन करें।",
+    "english_meaning": "Govinda, Govinda, Govinda, please save us. Govinda, Govinda, Govinda, please protect us."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "शरणागतदीनार्तपरित्राणपरायणे । सर्वस्यार्तिहरे देवि नारायणि नमोऽस्तु ते ॥",
+    "hindi_meaning": "शरण में आए हुए दीनों और दुखियों की रक्षा में तत्पर, सबकी पीड़ा हरने वाली हे नारायणी देवी, तुम्हें नमस्कार है।",
+    "english_meaning": "O Goddess who is dedicated to saving the distressed who take refuge in you, remover of everyone's suffering, O Narayani, salutations to you."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "सुप्रजा च मतः गात्रं पवित्रं च कुलोचितम् । ददाति वेङ्कटेशानः स्मरेयुः तं अहर्निशम् ॥",
+    "hindi_meaning": "जो दिन-रात वेंकटेश का स्मरण करते हैं, भगवान उन्हें अच्छी संतान, पवित्र शरीर और कुल के योग्य सम्मान प्रदान करते हैं।",
+    "english_meaning": "Lord Venkateswara grants good progeny, a pure body, and honor befitting one's family to those who remember Him day and night."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "अच्युतं केशवं रामनारायणं कृष्णदामोदरं वासुदेवं हरिम् । श्रीधरं माधवं गोपिकावल्लभं जानकीनायकं रामचन्द्रं भजे ॥",
+    "hindi_meaning": "मैं अच्युत, केशव, राम, नारायण, कृष्ण, दामोदर, वासुदेव, हरि, श्रीधर, माधव, गोपिकाओं के प्रिय और जानकी के स्वामी रामचंद्र का भजन करता हूँ।",
+    "english_meaning": "I worship Achyuta, Keshava, Rama, Narayana, Krishna, Damodara, Vasudeva, Hari, Shridhara, Madhava, the beloved of Gopis, and Ramachandra, the Lord of Janaki."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "उद्यद्भानुसहस्राभां चतुर्बाहुसमन्विताम् । रागस्वरूपपाशाढ्यां क्रोधाकाराङ्कुशोज्ज्वलाम् ॥",
+    "hindi_meaning": "हजारों उगते सूर्यों की आभा वाली, चार भुजाओं वाली, पाश (राग) और अंकुश (क्रोध) धारण करने वाली देवी (ललिता का ध्यान)।",
+    "english_meaning": "Meditating on the One shining like a thousand rising suns, with four arms, holding the noose of desire and the goad of anger."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "वन्दे शम्भुमुमापतिं सुरगुरुं वन्दे जगत्कारणम् वन्दे पन्नगभूषणं मृगधरं वन्दे पशूनां पतिम् ॥",
+    "hindi_meaning": "उमापति शम्भु, देवताओं के गुरु, जगत के कारण, सर्पों के आभूषण वाले, मृग धारण करने वाले और पशुओं के पति (पशुपति) को मैं वंदन करता हूँ।",
+    "english_meaning": "I bow to Shambhu, consort of Uma, Guru of Devas, cause of the world, adorned with snakes, holding a deer, the Lord of living beings."
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "सकृदेव प्रपन्नाय तवास्मीति च याचते । अभयं सर्वभूतेभ्यो ददाम्येतद्व्रतं मम ॥",
+    "hindi_meaning": "जो एक बार भी मेरी शरण में आकर 'मैं आपका हूँ' कहता है, मैं उसे सभी प्राणियों से अभय कर देता हूँ; यह मेरा व्रत है। (श्री राम का कथन)",
+    "english_meaning": "He who seeks refuge in Me just once, saying 'I am yours', I grant him fearlessness from all beings; this is My vow."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "आद्यन्तरहिते देवि आद्यशक्तिमहेश्वरि । योगजे योगसम्भूते महालक्ष्मि नमोऽस्तु ते ॥",
+    "hindi_meaning": "आदि और अंत से रहित देवी, आदिशक्ति महेश्वरी, योग से जन्मी और योग से प्रकट हुई महालक्ष्मी, आपको नमस्कार है।",
+    "english_meaning": "O Goddess without beginning or end, O Primal Power, O Great Goddess, born of Yoga, O Mahalakshmi, salutations to you."
+  },
+  {
+    "category": "Trimurti",
+    "sanskrit": "सृष्टिस्थितिविनाशानां शक्तिभूते सनातनि । गुणाश्रये गुणमये नारायणि नमोऽस्तु ते ॥",
+    "hindi_meaning": "सृष्टि, पालन और संहार की शक्ति रूपा, सनातनी, गुणों की आश्रय और गुणमयी नारायणी, आपको नमस्कार है।",
+    "english_meaning": "Salutations to Narayani, the eternal power behind creation, preservation, and destruction, the abode of Gunas and embodiment of Gunas."
+  },
+  {
+    "category": "General",
+    "sanskrit": "त्वमेव माता च पिता त्वमेव त्वमेव बन्धुश्च सखा त्वमेव । त्वमेव विद्या द्रविणं त्वमेव त्वमेव सर्वं मम देवदेव ॥",
+    "hindi_meaning": "तुम ही माता हो, तुम ही पिता हो, तुम ही भाई हो, तुम ही मित्र हो। तुम ही विद्या हो, तुम ही धन हो, हे देवों के देव, तुम ही मेरा सब कुछ हो।",
+    "english_meaning": "You alone are my mother, father, brother, and friend. You are knowledge and wealth. O God of Gods, you are my everything."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "अज्ञानिना मया दोषानशेषान्विहितान् हरे । क्षमस्व त्वं क्षमस्व त्वं शेषशैलशिखामणे ॥",
+    "hindi_meaning": "हे हरि, अज्ञानवश मैंने जो भी असंख्य दोष किए हैं, हे शेषचल के शिरोमणि, उन्हें क्षमा करें, क्षमा करें।",
+    "english_meaning": "O Hari, please forgive all the endless sins committed by me out of ignorance, O Jewel of the Shesha Hill."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "मृत्युञ्जयाय रुद्राय नीलकण्ठाय शम्भवे । अमृतेशाय शर्वाय महादेवाय ते नमः ॥",
+    "hindi_meaning": "मृत्यु को जीतने वाले, रुद्र, नीलकंठ, शम्भु, अमृत के स्वामी, शर्व और महादेव को मेरा नमस्कार है।",
+    "english_meaning": "Salutations to the Conqueror of Death, Rudra, the Blue-throated One, Shambhu, the Lord of Immortality, Sharva, and Mahadeva."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "ॐ नमो भगवते वासुदेवाय ॥",
+    "hindi_meaning": "भगवान वासुदेव को नमस्कार। (द्वादशाक्षर मंत्र)",
+    "english_meaning": "Om, salutations to Lord Vasudeva. (The twelve-syllable mantra)."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥",
+    "hindi_meaning": "हे देवी, मुझे रूप (सौंदर्य/चरित्र) दो, जय दो, यश दो और शत्रुओं का नाश करो।",
+    "english_meaning": "Grant me beauty/character, grant me victory, grant me fame, and destroy my enemies."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "अणिमादि-सिद्धि-दायिनी, षण्मुख-प्रिया, रञ्जनी । (ललिता अष्टोत्तर)",
+    "hindi_meaning": "अणिमा आदि सिद्धियाँ देने वाली, कार्तिकेय (षण्मुख) की प्रिया और सबको प्रसन्न करने वाली देवी।",
+    "english_meaning": "The Giver of Siddhis like Anima, beloved of Shanmukha, the one who delights."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "दारिद्र्यदुःखभयहारिणि का त्वदन्या सर्वोपकारकरणाय सदाार्द्रचित्ता ॥",
+    "hindi_meaning": "दरिद्रता और दुःख के भय को हरने वाली, आपके सिवा और कौन है जिसका चित्त सबका उपकार करने के लिए सदा दयालु रहता है?",
+    "english_meaning": "O Destroyer of poverty and sorrow, who else but you has a heart always melting with compassion to help everyone?"
+  },
+  {
+    "category": "General",
+    "sanskrit": "असतो मा सद्गमय । तमसो मा ज्योतिर्गमय । मृत्योर्मा अमृतं गमय ॥",
+    "hindi_meaning": "मुझे असत्य से सत्य की ओर ले चलो। मुझे अंधकार से प्रकाश की ओर ले चलो। मुझे मृत्यु से अमरता की ओर ले चलो।",
+    "english_meaning": "Lead me from untruth to truth. Lead me from darkness to light. Lead me from death to immortality."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "वेङ्कटाद्रिसमं स्थानं ब्रह्माण्डे नास्ति किञ्चन । वेङ्कटेशसमो देवो न भूतो न भविष्यति ॥",
+    "hindi_meaning": "ब्रह्मांड में वेंकटाद्रि के समान कोई स्थान नहीं है और वेंकटेश के समान कोई देवता न हुआ है और न होगा।",
+    "english_meaning": "There is no place in the universe equal to Venkatadri, and no God equal to Venkateswara in the past or future."
+  },
+  {
+    "category": "General",
+    "sanskrit": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ । निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥",
+    "hindi_meaning": "हे घुमावदार सूंड वाले, विशाल शरीर वाले, करोड़ों सूर्यों के समान तेजस्वी गणेश, मेरे सभी कार्यों को सदैव विघ्न रहित पूर्ण करें।",
+    "english_meaning": "O Lord Ganesha, of curved trunk and massive body, radiating the brilliance of a million suns, please make all my undertakings free of obstacles, always."
+  },
+  {
+    "category": "General",
+    "sanskrit": "सरस्वति नमस्तुभ्यं वरदे कामरूपिणि । विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा ॥",
+    "hindi_meaning": "हे सरस्वती, वरदान देने वाली और इच्छा अनुसार रूप धारण करने वाली, आपको नमस्कार है। मैं विद्या आरंभ कर रहा हूँ, मुझे सदैव सिद्धि प्राप्त हो।",
+    "english_meaning": "Salutations to Goddess Saraswati, the giver of boons and fulfiller of desires. I am beginning my studies; may there always be success for me."
+  },
+  {
+    "category": "General",
+    "sanskrit": "अखण्डमण्डलाकारं व्याप्तं येन चराचरम् । तत्पदं दर्शितं येन तस्मै श्रीगुरवे नमः ॥",
+    "hindi_meaning": "उस गुरु को नमस्कार, जिसने उस पद (सत्य) के दर्शन कराए, जो अखंड मंडलाकार है और जिसने संपूर्ण चराचर जगत को व्याप्त कर रखा है।",
+    "english_meaning": "Salutations to that Guru who showed me the abode of the One who permeates the entire universe, moving and unmoving, in an unbroken circle."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "ब्रह्ममुरारिसुरार्चितलिङ्गं निर्मलभासितशोभितलिङ्गम् । जन्मजदुःखविनाशकलिङ्गं तत् प्रणमामि सदाशिवलिङ्गम् ॥",
+    "hindi_meaning": "ब्रह्मा, विष्णु और देवताओं द्वारा पूजित, निर्मल आभा से शोभित, और जन्म-जन्मांतर के दुःखों का नाश करने वाले सदाशिव लिंग को मैं प्रणाम करता हूँ।",
+    "english_meaning": "I bow to that Sadashivalinga, which is worshipped by Brahma, Vishnu, and the gods, which shines with pure radiance, and which destroys the sorrows of birth."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "त्रिदलं त्रिगुणाकारं त्रिनेत्रं च त्रियायुधम् । त्रिजन्मपापसंहारं एकबिल्वं शिवार्पणम् ॥",
+    "hindi_meaning": "तीन पत्तों वाला, तीन गुणों (सत्व, रज, तम) का स्वरूप, तीन नेत्रों और तीन आयुधों जैसा, तीन जन्मों के पापों को नष्ट करने वाला यह एक बेलपत्र मैं शिव को अर्पित करता हूँ।",
+    "english_meaning": "I offer this one Bilva leaf to Shiva, which has three leaves, represents the three Gunas, the three eyes, and the three weapons, and destroys sins of three lifetimes."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "कस्तूरीतिलकं ललाटपटले वक्षःस्थले कौस्तुभं नासाग्रे वरमौक्तिकं करतले वेणुं करे कङ्कणम् ॥",
+    "hindi_meaning": "जिनके मस्तक पर कस्तूरी का तिलक, वक्षस्थल पर कौस्तुभ मणि, नाक के अग्रभाग पर मोती, हथेली में बांसुरी और हाथ में कंगन है (वे भगवान कृष्ण/विष्णु सुशोभित हैं)।",
+    "english_meaning": "He who has the musk tilaka on his forehead, the Kaustubha gem on his chest, a pearl on his nose, a flute in his palm, and a bracelet on his wrist."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "वासुदेवसुतं देवं कंसचाणूरमर्दनम् । देवकीपरमानन्दं कृष्णं वन्दे जगद्गुरुम् ॥",
+    "hindi_meaning": "वसुदेव के पुत्र, कंस और चाणूर का वध करने वाले, देवकी के परम आनंद, जगतगुरु भगवान कृष्ण को मैं नमन करता हूँ।",
+    "english_meaning": "I bow to Krishna, the son of Vasudeva, the slayer of Kamsa and Chanura, the supreme joy of Devaki, and the Guru of the universe."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "रामाय रामभद्राय रामचन्द्राय वेधसे । रघुनाथाय नाथाय सीतायाः पतये नमः ॥",
+    "hindi_meaning": "राम, रामभद्र, रामचंद्र, विधाता स्वरूप, रघुनाथ, परम स्वामी और सीता के पति को नमस्कार है।",
+    "english_meaning": "Salutations to Rama, Ramabhadra, Ramachandra, the Creator, Raghunatha, the Lord, and the husband of Sita."
+  },
+  {
+    "category": "General",
+    "sanskrit": "मनोजवं मारुततुल्यवेगं जितेन्द्रियं बुद्धिमतां वरिष्ठम् । वातात्मजं वानरयूथमुख्यं श्रीरामदूतं शरणं प्रपद्ये ॥",
+    "hindi_meaning": "मन के समान गति वाले, वायु के समान वेग वाले, इंद्रियों को जीतने वाले, बुद्धिमानों में श्रेष्ठ, वायुपुत्र, वानरों के नेता, श्री रामदूत (हनुमान) की मैं शरण लेता हूँ।",
+    "english_meaning": "I take refuge in the messenger of Rama (Hanuman), who is as fast as the mind and wind, master of senses, supreme among the wise, son of the wind god, and chief of the Vanaras."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "श्रीमान् वेङ्कटनाथार्यः कवितार्किककेसरी । वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ॥",
+    "hindi_meaning": "श्रीमान वेंकटनाथ (वेदांत देशिक), जो कवियों और तार्किकों में सिंह के समान हैं और वेदांत आचार्यों में श्रेष्ठ हैं, वे सदा मेरे हृदय में निवास करें।",
+    "english_meaning": "May Sriman Venkatanatha, the lion among poets and logicians, and the foremost of Vedanta teachers, always reside in my heart."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "अङ्गं हरेः पुलकभूषणमाश्रयन्ती भृङ्गाङ्गनेव मुकुलाभरणं तमालम् ।",
+    "hindi_meaning": "जैसे भ्रमरी अधखिले तमाल के फूलों का आश्रय लेती है, वैसे ही जो भगवान हरि के रोमांचित शरीर का आश्रय लेती हैं (कनकधारा स्तोत्र)।",
+    "english_meaning": "Like a female bee resting on the Tamala blossoms, She (Lakshmi) takes refuge in the form of Hari, which is adorned with thrill/horripilation."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "सिन्दूरारुणविग्रहां त्रिनयनां माणिक्यमौलिस्फुरत् तारानायकशेखरां स्मितमुखीमापीनवक्षोरुहाम् ॥",
+    "hindi_meaning": "जिनका शरीर सिन्दूर जैसा लाल है, तीन नेत्र हैं, मस्तक पर माणिक्य का मुकुट और चंद्रमा है, जो मंद मुस्कुरा रही हैं (ललिता देवी का ध्यान)।",
+    "english_meaning": "I meditate on Her whose body is red like vermilion, who has three eyes, a crown of rubies with the crescent moon, and a smiling face."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "ॐ नमः शम्भवाय च मयोभवाय च नमः शङ्कराय च मयस्कराय च नमः शिवाय च शिवतराय च ॥",
+    "hindi_meaning": "कल्याण और सुख के स्रोत को नमस्कार। शंकर और सुखकारी को नमस्कार। जो शिव हैं और परम कल्याणकारी हैं, उन्हें नमस्कार।",
+    "english_meaning": "Salutations to the source of happiness and welfare. Salutations to Shankara, the causer of happiness. Salutations to Shiva, the most auspicious one."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "जय त्वं देवि चामुण्डे जय भूतार्तिहारिणि । जय सर्वगते देवि कालरात्रि नमोऽस्तु ते ॥",
+    "hindi_meaning": "हे देवी चामुंडा, तुम्हारी जय हो। प्राणियों के दुःख हरने वाली, तुम्हारी जय हो। सर्वव्यापक देवी कालरात्रि, तुम्हें नमस्कार है।",
+    "english_meaning": "Victory to you, O Goddess Chamunda. Victory to the remover of the suffering of beings. Victory to the all-pervading Goddess Kalaratri. Salutations to you."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "शांताकारं भुजगशयनं (रिपीट नहीं, यह 'मेघश्यामं' वाला श्लोक है) - मेघश्यामं पीतकौशेयवासं श्रीवत्साङ्कं कौस्तुभोद्भासिताङ्गम् ॥",
+    "hindi_meaning": "जो बादलों के समान श्याम वर्ण के हैं, पीतांबर धारण करते हैं, जिनके वक्ष पर श्रीवत्स का चिन्ह है और अंग कौस्तुभ मणि से प्रकाशित हैं।",
+    "english_meaning": "He who is dark like a cloud, wears yellow silk, has the mark of Srivatsa, and whose body shines with the Kaustubha gem."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "तव सुप्रभातमरविन्दलोचने भवतः प्रसन्नमुखचन्द्रमण्डले । विधिशङ्करेन्द्रवनिताभिरर्चिते वृषशैलनाथदयिते दयानिधे ॥",
+    "hindi_meaning": "हे कमल नयन! आपके प्रसन्न चंद्र मुखमंडल का सुप्रभात हो। ब्रह्मा, शंकर और इंद्र की पत्नियों द्वारा पूजित, हे वृषाचल नाथ की प्रिय (लक्ष्मी), आप दया की निधि हैं।",
+    "english_meaning": "Good morning to you, O lotus-eyed one with a cheerful moon-like face. O beloved of the Lord of Vrishachala, worshipped by the consorts of Brahma, Shankara, and Indra."
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "अन्तर्बहिश्च तत्सर्वं व्याप्य नारायणः स्थितः ॥",
+    "hindi_meaning": "वह (नारायण) इस जगत के भीतर और बाहर, सब जगह व्याप्त होकर स्थित हैं।",
+    "english_meaning": "Narayana exists pervading all that is inside and outside."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "अरुणां करुणातरङ्गिताक्षीं धृतपाशाङ्कुशपुष्पबाणचापाम् ।",
+    "hindi_meaning": "जो लाल वर्ण की हैं, जिनकी आँखों में करुणा की लहरें हैं, जिन्होंने पाश, अंकुश, पुष्प बाण और धनुष धारण किया है।",
+    "english_meaning": "She who is red in color, whose eyes overflow with waves of compassion, holding a noose, goad, flower arrows, and a bow."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "जटाटवीगलज्जलप्रवाहपावितस्थले गलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम् ॥",
+    "hindi_meaning": "जिनके गले में जटाओं रूपी वन से बहती हुई गंगा की धारा से पवित्र हुए स्थान पर, बड़े साँपों की माला लटक रही है (शिव तांडव)।",
+    "english_meaning": "With his neck consecrated by the flow of water flowing from the thick forest-like locks of hair, and on his neck hangs the lofty garland of serpents."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "नमस्ते गरुडारूढे कोलासुरभयङ्करि । सर्वपापहरे देवि महालक्ष्मि नमोऽस्तु ते ॥",
+    "hindi_meaning": "गरुड़ पर सवार, कोलासुर को भयभीत करने वाली और सभी पापों को हरने वाली देवी महालक्ष्मी, आपको नमस्कार है।",
+    "english_meaning": "Salutations to you, O Mahalakshmi, who rides on Garuda, creates fear in Kolasura, and removes all sins."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "अकुहीनां दुहीनां च समीपे कृतसंवासम् । कोटिसूर्यप्रतीकाशं भजे वेङ्कटेशम् ॥",
+    "hindi_meaning": "मैं उन वेंकटेश का भजन करता हूँ जो अकुहीन और दुहीन (नदियों/तीर्थों) के समीप निवास करते हैं और करोड़ों सूर्यों के समान तेजस्वी हैं।",
+    "english_meaning": "I worship Venkateswara, who resides near the Akuhina and Duhina, and who shines like a crore suns."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "कृष्णाय वासुदेवाय हरये परमात्मने । प्रणतक्लेशनाशाय गोविन्दाय नमो नमः ॥",
+    "hindi_meaning": "कृष्ण, वासुदेव, हरि, परमात्मा और शरणागतों के क्लेश नाश करने वाले गोविंद को बारंबार नमस्कार है।",
+    "english_meaning": "Salutations again and again to Krishna, Vasudeva, Hari, the Supreme Soul, the destroyer of the afflictions of those who bow to Him, Govinda."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "देहि सौभाग्यमारोग्यं देहि मे परमं सुखम् । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥",
+    "hindi_meaning": "मुझे सौभाग्य और आरोग्य दो, मुझे परम सुख दो। रूप, जय और यश दो, और मेरे शत्रुओं का नाश करो।",
+    "english_meaning": "Grant me good fortune and health, grant me supreme happiness. Grant beauty, victory, fame, and destroy enemies."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "सकुङ्कुमविलेपनामलिकचुम्बिकस्तूरिकां समन्दहसितेक्षणां सशरचापपाशाङ्कुशाम् ॥",
+    "hindi_meaning": "जिन्होंने कुमकुम का लेप लगाया है, कस्तूरी की बिंदी लगाई है, जो मंद-मंद मुस्कुरा रही हैं और हाथ में धनुष-बाण, पाश-अंकुश लिए हैं।",
+    "english_meaning": "She who is anointed with vermilion, with musk touching her forehead, with a gentle smile and eyes, holding arrows, bow, noose, and goad."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "अतुलितबलधामं हेमशैलाभदेहं दनुजवनकृशानुं ज्ञानिनामग्रगण्यम् । (हनुमान/रुद्रावतार)",
+    "hindi_meaning": "अतुलित बल के धाम, सुमेरु पर्वत जैसे शरीर वाले, दैत्य रूपी वन के लिए अग्नि समान और ज्ञानियों में अग्रगण्य (हनुमान जी - शिव अवतार)।",
+    "english_meaning": "The abode of incomparable strength, with a body like a golden mountain, a fire to the forest of demons, and foremost among the wise."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "मत्स्यः कूर्मो वराहश्च नारसिंहश्च वामनः । रामो रामश्च कृष्णश्च कल्की च ते नमः ॥",
+    "hindi_meaning": "मत्स्य, कूर्म, वराह, नरसिंह, वामन, परशुराम, राम, कृष्ण और कल्कि अवतार धारण करने वाले (भगवान वेंकटेश/विष्णु) को नमस्कार।",
+    "english_meaning": "Salutations to You who took the forms of Matsya, Kurma, Varaha, Narasimha, Vamana, Parashurama, Rama, Krishna, and Kalki."
+  },
+  {
+    "category": "General",
+    "sanskrit": "सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । तेजस्वि नावधीतमस्तु मा विद्विषावहै ॥",
+    "hindi_meaning": "हम दोनों (गुरु-शिष्य) की साथ-साथ रक्षा हो, हम साथ-साथ उपभोग करें, हम साथ-साथ पुरुषार्थ करें। हमारा ज्ञान तेजस्वी हो, हम द्वेष न करें।",
+    "english_meaning": "May He protect us both together. May He nourish us both together. May we work together with great energy. May our study be enlightening. May there be no hatred between us."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "सर्वस्वरूपे सर्वेशे सर्वशक्तिसमन्विते । भयेभ्यस्त्राहि नो देवि दुर्गे देवि नमोऽस्तु ते ॥",
+    "hindi_meaning": "सर्वस्वरूप, सर्वेश्वरी और सब प्रकार की शक्तियों से संपन्न हे दुर्गा देवी! सब भयों से हमारी रक्षा करो, तुम्हें नमस्कार है।",
+    "english_meaning": "O Goddess Durga, who exists in all forms, the Lord of all, possessed of all power, protect us from fears. Salutations to you."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "अधरं मधुरं वदनं मधुरं नयनं मधुरं हसितं मधुरम् । हृदयं मधुरं गमनं मधुरं मधुराधिपतेरखिलं मधुरम् ॥",
+    "hindi_meaning": "मधुराधिपति (कृष्ण) के होंठ मधुर हैं, मुख मधुर है, नेत्र मधुर हैं, मुस्कान मधुर है, हृदय मधुर है और चाल मधुर है; उनका सब कुछ मधुर है।",
+    "english_meaning": "His lips are sweet, His face is sweet, His eyes are sweet, His smile is sweet, His heart is sweet, His gait is sweet—everything about the Lord of Sweetness is sweet."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "सौराष्ट्रे सोमनाथं च श्रीशैले मल्लिकार्जुनम् । उज्जयिन्यां महाकालं ओङ्कारममलेश्वरम् ॥",
+    "hindi_meaning": "सौराष्ट्र में सोमनाथ, श्रीशैल पर मल्लिकार्जुन, उज्जैन में महाकाल और ओंकारेश्वर में ममलेश्वर (ज्योतिर्लिंग ध्यान)।",
+    "english_meaning": "(I meditate on) Somnath in Saurashtra, Mallikarjuna on Srisailam, Mahakala in Ujjain, and Mamaleshwar in Omkareshwar."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "शिवः शक्त्या युक्तो यदि भवति शक्तः प्रभवितुं न चेदेवं देवो न खलु कुशलः स्पन्दितुमपि ॥",
+    "hindi_meaning": "शिव जब शक्ति से युक्त होते हैं तभी सृष्टि करने में समर्थ होते हैं; अन्यथा वे देव (शिव) हिलने में भी समर्थ नहीं हैं (सौंदर्य लहरी)।",
+    "english_meaning": "Only when Shiva is united with Shakti does He have the power to create; otherwise, the God is not even capable of moving."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "या रक्ताम्बुजवासिनी विलसिनी चण्डांशुतेजस्विनी या रक्ता रुधिराम्बरा हरिसखी या श्रीमनोह्लादिनी ॥",
+    "hindi_meaning": "जो लाल कमल पर निवास करती हैं, विलासिनी हैं, सूर्य के समान तेजस्वी हैं, लाल वस्त्र धारण करती हैं और हरि की सखी हैं।",
+    "english_meaning": "She who dwells on a red lotus, is playful, brilliant like the sun, wears red garments, is the friend of Hari, and delights the mind."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "विना वेङ्कटेशं न नाथो न नाथः (already used) -> Replace: प्रपन्नपारिजाताय तोत्रवेत्रैकपाणये । ज्ञानमुद्राय कृष्णाय गीतामृतदुहे नमः ॥",
+    "hindi_meaning": "जो शरणागतों के लिए कल्पवृक्ष हैं, जिनके एक हाथ में चाबुक है, जो ज्ञान मुद्रा धारण किए हैं और गीता का अमृत दोहने वाले कृष्ण हैं, उन्हें नमस्कार।",
+    "english_meaning": "Salutations to Krishna, the wish-fulfilling tree for those who surrender, holding a whip in one hand, showing the Jnana Mudra, milker of the nectar of the Gita."
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "शांताकारं (Avoid repetition) -> नमो नारायणाय पुरुषोत्तमाय महात्मने । विशुद्धसत्त्वधिष्ण्याय महाहंसाय धीमहि ॥",
+    "hindi_meaning": "पुरुषोत्तम, महात्मा, शुद्ध सत्व के आधार, परमहंस स्वरूप भगवान नारायण को नमस्कार और हम उनका ध्यान करते हैं।",
+    "english_meaning": "Salutations to Narayana, the Supreme Person, the Great Soul, the abode of pure goodness. We meditate on the Great Swan."
+  },
+  {
+    "category": "General",
+    "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत । अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥",
+    "hindi_meaning": "हे भारत! जब-जब धर्म की हानि और अधर्म की वृद्धि होती है, तब-तब मैं (ईश्वर) स्वयं को प्रकट करता हूँ (अवतार लेता हूँ)।",
+    "english_meaning": "Whenever there is a decline in righteousness and an increase in unrighteousness, O Bharata, I manifest Myself."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "चन्द्रशेखराश्रये मम किम् करिष्यति वै यमः ॥",
+    "hindi_meaning": "जब मैं भगवान चंद्रषेखर (शिव) की शरण में हूँ, तो यमराज मेरा क्या बिगाड़ सकते हैं?",
+    "english_meaning": "When I am under the protection of Lord Chandrashekhara, what can Yama (Death) do to me?"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे ॥",
+    "hindi_meaning": "यह नवार्ण मंत्र है जो देवी चामुंडा को समर्पित है। (सृष्टि, पालन और संहार की शक्ति का आह्वान)।",
+    "english_meaning": "This is the Navarna Mantra dedicated to Goddess Chamunda (invoking the powers of creation, preservation, and destruction)."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "कायेन वाचा (Used) -> यं ब्रह्मा वरुणेन्द्ररुद्रमरुतः स्तुन्वन्ति दिव्यैः स्तवैः ।",
+    "hindi_meaning": "जिनकी ब्रह्मा, वरुण, इंद्र, रुद्र और मरुतगण दिव्य स्तोत्रों द्वारा स्तुति करते हैं।",
+    "english_meaning": "He whom Brahma, Varuna, Indra, Rudra, and the Maruts praise with divine hymns."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "अखिलाण्डकोटि ब्रह्माण्डनायक तिरुमल तिरुपति वेङ्कटेश । (लोकप्रिय भजन पंक्ति/श्लोक)",
+    "hindi_meaning": "संपूर्ण कोटि ब्रह्मांडों के नायक, तिरुमला तिरुपति के स्वामी वेंकटेश।",
+    "english_meaning": "The Lord of millions of universes, the Lord of Tirumala Tirupati, Venkateswara."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "महालक्ष्म्यै च विद्महे विष्णुपत्न्यै च धीमहि । तन्नो लक्ष्मीः प्रचोदयात् ॥",
+    "hindi_meaning": "हम महालक्ष्मी को जानते हैं, विष्णु पत्नी का ध्यान करते हैं। देवी लक्ष्मी हमें प्रेरित करें। (लक्ष्मी गायत्री)",
+    "english_meaning": "We know Mahalakshmi, we meditate on the consort of Vishnu. May Lakshmi inspire us."
+  },
+  {
+    "category": "General",
+    "sanskrit": "पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥",
+    "hindi_meaning": "वह (ब्रह्म) पूर्ण है, यह (जगत) पूर्ण है। पूर्ण से पूर्ण की उत्पत्ति होती है। पूर्ण में से पूर्ण निकाल लेने पर भी पूर्ण ही शेष रहता है।",
+    "english_meaning": "That is infinite, this is infinite. From the infinite, the infinite proceeds. Taking the infinite from the infinite, the infinite remains."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "रुद्रं पशुपतिं स्थाणुं नीलकण्ठमुमापतिम् । नमामि शिरसा देवं किं नो मृत्युः करिष्यति ॥",
+    "hindi_meaning": "रुद्र, पशुपति, स्थाणु, नीलकंठ, उमापति देव को मैं सिर झुकाकर नमन करता हूँ। मृत्यु मेरा क्या करेगी?",
+    "english_meaning": "I bow my head to Rudra, Pashupati, Sthanu, Nilakantha, the Lord of Uma. What can death do to us?"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "श्रीकृष्ण गोविन्द हरे मुरारे हे नाथ नारायण वासुदेव ।",
+    "hindi_meaning": "हे श्री कृष्ण, गोविंद, हरि, मुरारी, हे नाथ, नारायण, वासुदेव (भक्ति मंत्र)।",
+    "english_meaning": "O Shri Krishna, Govinda, Hari, Murari, O Lord, Narayana, Vasudeva."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "नमस्ते ललिते देवि श्रीमत्सिंहासनेश्वरि । भक्तानां इष्टदे माता नमस्ते कामेश्वरि ॥",
+    "hindi_meaning": "हे ललिता देवी, श्री सिंहासन की स्वामिनी, भक्तों की मनोकामना पूर्ण करने वाली माता कामेश्वरी, आपको नमस्कार।",
+    "english_meaning": "Salutations to Devi Lalita, the Queen of the Sri Simhasana, the grantor of devotees' wishes, Mother Kameshwari."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "त्वमेव सर्वं मम देव देव (Used as general, here specific) -> नमो वेङ्कटेशाय नमो तिरुमलेशाय । नमो श्रीनिवासाय नमो वेङ्कटाचलपतये ॥",
+    "hindi_meaning": "वेंकटेश को नमस्कार, तिरुमला के ईश को नमस्कार, श्रीनिवास को नमस्कार, वेंकटाचलपति को नमस्कार।",
+    "english_meaning": "Salutations to Venkatesha, to the Lord of Tirumala, to Srinivasa, to the Lord of Venkata Hill."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "प्रणतानां प्रसीद त्वं देवि विश्वार्तिहारिणि । त्रैलोक्यवासिनामीड्ये लोकानां वरदा भव ॥",
+    "hindi_meaning": "हे शरणागतों पर प्रसन्न होने वाली, विश्व की पीड़ा हरने वाली देवी! तीनों लोकों द्वारा पूजित, आप लोकों को वरदान देने वाली बनें।",
+    "english_meaning": "Be pleased, O Goddess, remover of the universe's suffering. Worshipped by the dwellers of the three worlds, be the boon-giver to the worlds."
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "हरिः ॐ तत्सत् ॥",
+    "hindi_meaning": "हरि ही परम सत्य है।",
+    "english_meaning": "Hari is the Supreme Truth."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "नमः शिवाय शान्ताय कारणत्रयहेतवे । निवेदयामि चात्मानं त्वं गतिः परमेश्वर ॥",
+    "hindi_meaning": "शांत स्वरूप, तीन कारणों (सृष्टि, स्थिति, लय) के हेतु शिव को नमस्कार। मैं स्वयं को समर्पित करता हूँ, हे परमेश्वर आप ही मेरी गति हैं।",
+    "english_meaning": "Salutations to Shiva, the peaceful one, the cause of the three causes. I offer myself to you; you are my refuge, O Supreme Lord."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "धनमग्निर्धनं वायुर्धनं सूर्यो धनं वसुः । धनमिन्द्रो बृहस्पतिर्वरुणं धनमस्तु ते ॥",
+    "hindi_meaning": "अग्नि धन है, वायु धन है, सूर्य धन है, वसु धन है। इंद्र, बृहस्पति और वरुण आपके लिए धन स्वरूप हों (अन्नपूर्णा/श्री सूक्त संदर्भ)।",
+    "english_meaning": "May Agni, Vayu, Surya, Vasus, Indra, Brihaspati, and Varuna be wealth to you."
+  },
+  {
+    "category": "General",
+    "sanskrit": "सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः । सर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग्भवेत् ॥",
+    "hindi_meaning": "सभी सुखी हों, सभी रोगमुक्त हों, सभी मंगलमय घटनाओं के साक्षी बनें और किसी को भी दुःख का भागी न बनना पड़े।",
+    "english_meaning": "May all be happy, may all be free from illness, may all see what is auspicious, may no one suffer."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "श्रियः कान्ताय गोविन्द गोविन्द यानि वदेत्समक्षं भक्तोऽविशेषमपि यो हरिरन्तराजः ।",
+    "hindi_meaning": "जो भक्त 'गोविंद गोविंद' का नाम जपता है, हरि उसके अंतःकरण में विराजमान होते हैं।",
+    "english_meaning": "The devotee who chants 'Govinda Govinda', Hari resides within him."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "शम्भो शङ्कर नमः शिवाय, गिरिजा शङ्कर नमः शिवाय । (नामावली)",
+    "hindi_meaning": "हे शम्भु, शंकर, शिव, आपको नमस्कार। गिरिजा (पार्वती) के पति शंकर, आपको नमस्कार।",
+    "english_meaning": "O Shambhu, Shankara, salutations to Shiva. O Consort of Girija, Shankara, salutations to Shiva."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "नमो ब्रह्मण्यदेवाय गोब्राह्मणहिताय च । जगद्धिताय कृष्णाय गोविन्दाय नमो नमः ॥",
+    "hindi_meaning": "ब्रह्मण्यदेव, गाय और ब्राह्मणों का हित करने वाले, जगत का कल्याण करने वाले भगवान कृष्ण गोविंद को बार-बार नमस्कार।",
+    "english_meaning": "Salutations to the Lord of the Brahmanas, the well-wisher of cows and Brahmanas, the benefactor of the world, Krishna, Govinda."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "ॐ ऐं ह्रीं श्रीं त्रिपुरसुन्दर्यै नमः ॥",
+    "hindi_meaning": "त्रिपुरसुन्दरी देवी को नमस्कार।",
+    "english_meaning": "Salutations to Goddess Tripurasundari."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "दुर्गतिनाशिनि त्वंहि दरिद्रादिविनाशिनी । जयं देहि धनं देहि सर्वकामांश्च देहि मे ॥",
+    "hindi_meaning": "आप ही दुर्गति और दरिद्रता का नाश करने वाली हैं। मुझे जय, धन और सभी कामनाओं की पूर्ति प्रदान करें।",
+    "english_meaning": "You are the destroyer of misfortune and poverty. Grant me victory, wealth, and fulfill all my desires."
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणः परं ब्रह्म तत्त्वं नारायणः परः । नारायणः परो ज्योतिरात्मा नारायणः परः ॥",
+    "hindi_meaning": "नारायण ही परब्रह्म हैं, नारायण ही परम तत्व हैं। नारायण ही परम ज्योति हैं और नारायण ही परमात्मा हैं।",
+    "english_meaning": "Narayana is the Supreme Brahman, Narayana is the Supreme Reality. Narayana is the Supreme Light, Narayana is the Supreme Soul."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "पद्मप्रिय पद्मनाभप्रिये पद्महस्ते पद्माक्षि पद्मसुन्दरी ।",
+    "hindi_meaning": "कमल को प्रिय मानने वाली, पद्मनाभ (विष्णु) की प्रिय, हाथ में कमल धारण करने वाली, कमल जैसी आँखों वाली और कमल जैसी सुंदर।",
+    "english_meaning": "Lover of lotuses, beloved of Padmanabha, lotus-handed, lotus-eyed, lotus-beauty."
+  },
+  {
+    "category": "General",
+    "sanskrit": "ॐ सहनाभवतु (Repeated ID 77 error check) -> ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात् ॥",
+    "hindi_meaning": "उस प्राणस्वरूप, दुःखनाशक, सुखस्वरूप, श्रेष्ठ, तेजस्वी, पापनाशक देव स्वरूप परमात्मा को हम अंतरात्मा में धारण करें। वह हमारी बुद्धि को सन्मार्ग में प्रेरित करें। (गायत्री मंत्र)",
+    "english_meaning": "We meditate on that most adorable, desirable and enchanting luster of the Supreme Lord, who is the source of creation, inspiration and eternal happiness. May He inspire our intellect."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "यन्मायाpet (Error check) -> मयीनां मानसीनां च गतिं वेङ्कटनायकम् ।",
+    "hindi_meaning": "जो योगियों और मनस्वियों की परम गति हैं, उन वेंकटनायक को नमन।",
+    "english_meaning": "To the Venkatesha, who is the ultimate goal of Yogis and the wise."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "काशीनाथ समरारिमुखेश्वर पापविनाशक पाहि विभो ।",
+    "hindi_meaning": "हे काशीनाथ, कामदेव के शत्रु, पापों का नाश करने वाले विभु, मेरी रक्षा करो।",
+    "english_meaning": "O Lord of Kashi, enemy of Kama, destroyer of sins, O All-pervading One, protect me."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "श्रीराम राम रामेति रमे रामे मनोरमे । सहस्रनाम तत्तुल्यं रामनाम वरानने ॥",
+    "hindi_meaning": "शिव जी कहते हैं: मैं 'राम राम राम' इस प्रकार मनोरम राम नाम में ही रमण करता हूँ। यह राम नाम विष्णु सहस्रनाम के तुल्य है।",
+    "english_meaning": "I delight in the name of Rama, chanting Rama, Rama, Rama. This holy name of Rama is equal to the thousand names of Vishnu."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "चतुर्भिः श्रीकण्ठैः शिवयुवतिभिः पञ्चभिरपि । प्रभिन्नाभिः शम्भोर्नवभिरपि मूलप्रकृतिभिः ॥",
+    "hindi_meaning": "चार श्रीकंठ (शिव) चक्रों और पांच शिव-युवती (शक्ति) चक्रों से मिलकर, शम्भु की नौ मूल प्रकृतियों से यह श्रीचक्र बना है (सौंदर्य लहरी)।",
+    "english_meaning": "Composed of four Srikantha (Shiva) chakras and five Shivayuvati (Shakti) chakras, distinct from Shambhu, these nine are the root nature (of Sri Chakra)."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "विद्याः समस्तास्तव देवि भेदाः स्त्रियः समस्ताः सकला जगत्सु ।",
+    "hindi_meaning": "हे देवी, जगत की समस्त विद्याएं तुम्हारे ही भेद हैं और समस्त स्त्रियां तुम्हारा ही स्वरूप हैं।",
+    "english_meaning": "All knowledges are your aspects, O Devi; and all women in the world are your forms."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "या सा पद्मासनस्था विपुलकटितटी पद्मपत्रायताक्षी । गम्भीरावर्तनाभिस्तनभरनमिता शुभ्रवस्त्रोत्तरीया ॥",
+    "hindi_meaning": "जो कमल के आसन पर स्थित हैं, जिनका कटि प्रदेश विस्तृत है, नेत्र कमल पत्र जैसे विशाल हैं, नाभि गहरी है और जो श्वेत वस्त्र धारण करती हैं।",
+    "english_meaning": "She who sits on a lotus, with ample hips, eyes like lotus petals, deep navel, bent by the weight of bosom, wearing white upper garments."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "नीलमेघश्यामतनवे शुभप्रदाय वेङ्कटेशाय मंगलम् ।",
+    "hindi_meaning": "नीले बादलों जैसे श्याम शरीर वाले और शुभ फल देने वाले वेंकटेश का मंगल हो।",
+    "english_meaning": "Auspiciousness to Venkateswara, who has a body dark like a blue cloud and who bestows auspiciousness."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "न जानामि योगं जपं नैव पूजां नतोऽहं सदा सर्वदा शम्भुतुभ्यम् ।",
+    "hindi_meaning": "मैं योग, जप या पूजा कुछ नहीं जानता। हे शम्भु, मैं तो सदा सर्वदा आपको केवल नमस्कार करता हूँ।",
+    "english_meaning": "I know not Yoga, nor Japa, nor Puja. I always bow to you, O Shambhu."
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणायेति समर्पयामि (Used in Kayena Vacha) -> ॐ विष्णवे नमः । ॐ नारायणाय नमः । (नाम मंत्र)",
+    "hindi_meaning": "विष्णु को नमस्कार। नारायण को नमस्कार।",
+    "english_meaning": "Om Salutations to Vishnu. Om Salutations to Narayana."
+  },
+  {
+    "category": "General",
+    "sanskrit": "विद्या ददाति विनयं विनयाद्याति पात्रताम् । पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥",
+    "hindi_meaning": "विद्या विनम्रता देती है, विनम्रता से योग्यता आती है, योग्यता से धन प्राप्त होता है, धन से धर्म और धर्म से सुख मिलता है।",
+    "english_meaning": "Knowledge gives humility, from humility comes worthiness, from worthiness one gets wealth, from wealth righteousness, and from that happiness."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "गुरुवायुरप्पेशं कृष्णं रोगविनाशकम् ।",
+    "hindi_meaning": "गुरुवायुर के स्वामी कृष्ण जो रोगों का नाश करने वाले हैं।",
+    "english_meaning": "Krishna, the Lord of Guruvayur, who destroys diseases."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "श्रीविद्यां शिववामभागनिलयां ह्रींकारमन्त्रोज्ज्वलाम् ।",
+    "hindi_meaning": "श्रीविद्या, जो शिव के वाम भाग में निवास करती हैं और ह्रींकार मंत्र से उज्ज्वल हैं।",
+    "english_meaning": "Sri Vidya, who dwells on the left side of Shiva and shines with the Hrimkara mantra."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "पद्मनाभं सुरेशं (Used) -> प्रपद्येऽहं गिरिधरं वेङ्कटाद्रिपतिं प्रभुम् ।",
+    "hindi_meaning": "मैं गोवर्धन गिरधारी और वेंकटाद्रि के स्वामी प्रभु की शरण लेता हूँ।",
+    "english_meaning": "I surrender to the lifter of the mountain, the Lord of Venkatadri."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "सर्वबाधाप्रशमनं त्रैलोक्यस्याखिलेश्वरि । एवमेव त्वया कार्यमस्मद्वैरिविनाशनम् ॥",
+    "hindi_meaning": "हे अखिलेश्वरी! तुम तीनों लोकों की समस्त बाधाओं को शांत करो और हमारे शत्रुओं का नाश करो।",
+    "english_meaning": "O Mistress of all worlds, quell all hindrances of the three worlds and destroy our enemies."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "शिशुपालवधं (Not Shiva) -> पशूनां पतिं पापनाशं परेशं गजेन्द्रस्य कृत्तिं वसानं वरेण्यम् ।",
+    "hindi_meaning": "पशुओं के पति, पाप नाशक, परमेश्वर, गजासुर की खाल पहनने वाले और वरेण्य (शिव)।",
+    "english_meaning": "The Lord of beings, destroyer of sins, Supreme Lord, wearing the hide of the Elephant Demon, the most excellent one."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "विष्णोः वक्षःस्थले संस्थितां देवीं भजे ।",
+    "hindi_meaning": "विष्णु के वक्षस्थल पर स्थित देवी का मैं भजन करता हूँ।",
+    "english_meaning": "I worship the Goddess who resides on the chest of Vishnu."
+  },
+  {
+    "category": "General",
+    "sanskrit": "अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम् । होतारं रत्नधातमम् ॥ (ऋग्वेद)",
+    "hindi_meaning": "मैं अग्नि की स्तुति करता हूँ जो यज्ञ के पुरोहित, देवता, ऋत्विज, होता और रत्नों को धारण करने वाले हैं।",
+    "english_meaning": "I adore Agni, the priest, the god of the sacrifice, the one who performs the rite, and the bestower of wealth."
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् । आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥",
+    "hindi_meaning": "अपने द्वारा अपना उद्धार करें, अपना पतन न करें; क्योंकि आप ही अपने मित्र हैं और आप ही अपने शत्रु हैं।",
+    "english_meaning": "One should lift oneself by one's own self and not degrade oneself; for the self alone is the friend of the self, and the self alone is the enemy of the self."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "स शंखचक्रं सकिरीटकुण्डलं सपीतवस्त्रं सरसीरुहेक्षणम् । सहारवक्षःस्थलशोभिकौस्तुभं नमामि विष्णुं शिरसा चतुर्भुजम् ॥",
+    "hindi_meaning": "शंख, चक्र, मुकुट, कुंडल, पीतांबर धारण किए, कमल नयन, वक्ष पर हार और कौस्तुभ से शोभित चतुर्भुज विष्णु को मैं सिर से नमन करता हूँ।",
+    "english_meaning": "I bow my head to Vishnu, who holds the conch and discus, wears a crown and earrings, yellow clothes, has lotus eyes, and is adorned with a necklace and Kaustubha gem."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "मूलाधारैकनिलया ब्रह्मग्रन्थि-विभेदिनि । मणिपूरान्तरुदिता विष्णुग्रन्थि-विभेदिनि ॥ (ललिता सहस्रनाम)",
+    "hindi_meaning": "जो मूलाधार में निवास करती हैं, ब्रह्मग्रंथि को भेदती हैं, मणिपूर चक्र में उदित होती हैं और विष्णुग्रंथि को भेदती हैं।",
+    "english_meaning": "She who dwells in the Muladhara, pierces the Brahma-knot, rises inside the Manipura, and pierces the Vishnu-knot."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "वेङ्कटाद्रि समं (Used) -> वेङ्कटेशं तुरासाहं शरणं प्रपद्ये ।",
+    "hindi_meaning": "मैं इंद्र आदि द्वारा पूजित वेंकटेश की शरण लेता हूँ।",
+    "english_meaning": "I surrender to Venkateswara, who is worshipped by Indra and others."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "ॐ जुं सः माम् पालय पालय । (मृत्युंजय मंत्र बीज)",
+    "hindi_meaning": "हे शिव (अमृत स्वरूप), मेरी रक्षा करो, रक्षा करो।",
+    "english_meaning": "Om Jum Sah, protect me, protect me."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "हिनस्ति दैत्यतेजांसि स्वनेनापूर्य या जगत् । सा घण्टा पातु नो देवि पापेभ्योऽनः सुतानिव ॥",
+    "hindi_meaning": "जिसने अपनी ध्वनि से जगत को भरकर दैत्यों के तेज को नष्ट कर दिया, वह (देवी की) घंटा हमारी पापों से वैसे ही रक्षा करे जैसे माता पुत्रों की करती है।",
+    "english_meaning": "May that bell, which destroys the glory of demons by filling the world with its sound, protect us from sins as a mother protects her sons."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "सम्पत्कराणि सकलेन्द्रियनन्दनानि साम्राज्यदानविभवानि सरोरुहाक्षि ।",
+    "hindi_meaning": "हे कमल नयनी! तुम्हारी दृष्टि संपत्ति देने वाली, इंद्रियों को आनंद देने वाली और साम्राज्य प्रदान करने का वैभव रखती है।",
+    "english_meaning": "O Lotus-eyed one! Your glances bestow wealth, delight all senses, and have the power to grant empires."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "मुकुन्द मूर्धना प्रणिपत्य याचे भवन्तमेकान्तमियन्तमर्थम् ।",
+    "hindi_meaning": "हे मुकुंद, मैं सिर झुकाकर आपसे एकांत में केवल यही एक अर्थ (वर) मांगता हूँ।",
+    "english_meaning": "O Mukunda, bowing my head, I beg of You this one thing in private."
+  },
+  {
+    "category": "General",
+    "sanskrit": "शान्तिः शान्तिः शान्तिः ॥",
+    "hindi_meaning": "त्रिविध तापों (आधिभौतिक, आधिदैविक, आध्यात्मिक) की शांति हो।",
+    "english_meaning": "Peace, Peace, Peace."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "आज्ञा-चक्रान्तरालस्था रुद्रग्रन्थि-विभेदिनि । सहस्राराम्बुजारूढा सुधा-साराभिवर्षिणी ॥",
+    "hindi_meaning": "जो आज्ञा चक्र में स्थित हैं, रुद्रग्रंथि को भेदती हैं, सहस्रार कमल पर आरूढ़ हैं और अमृत की वर्षा करती हैं।",
+    "english_meaning": "She who resides in the Ajna Chakra, pierces the Rudra-knot, ascends the Sahasrara lotus, and showers the essence of nectar."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "पवित्रं (Used Supraja context) -> योषागणैः वरदध्न्यविमध्यमाने क्षीराब्धौ मन्दरधरेण धृताय तुभ्यम् ।",
+    "hindi_meaning": "क्षीर सागर के मंथन के समय मंदराचल पर्वत को धारण करने वाले (कूर्म रूपी वेंकटेश/विष्णु) आपको नमस्कार।",
+    "english_meaning": "Salutations to You who held the Mandara mountain during the churning of the milky ocean."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "शिरः कपालं यस्य विभोः गले च गरलं सदा ।",
+    "hindi_meaning": "जिनके सिर पर (हाथ में) कपाल है और गले में सदा विष है।",
+    "english_meaning": "He who holds a skull and always has poison in his throat."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "या देवी सर्वभूतेषु निद्रारूपेण संस्थिता । नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥",
+    "hindi_meaning": "जो देवी सब प्राणियों में निद्रा रूप में स्थित हैं, उनको नमस्कार।",
+    "english_meaning": "Salutations to the Goddess who resides in all beings in the form of sleep."
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायण परो ज्योतिः (Used) -> यच्च किञ्चित् जगत् सर्वं दृश्यते श्रूयतेऽपि वा ।",
+    "hindi_meaning": "इस जगत में जो कुछ भी देखा या सुना जाता है (वह सब नारायण में है)।",
+    "english_meaning": "Whatever in this universe is seen or heard of..."
+  },
+  {
+    "category": "General",
+    "sanskrit": "ॐ असतो मा सद्गमय (Used) -> ॐ भद्रं कर्णेभिः शृणुयाम देवाः । भद्रं पश्येमाक्षभिर्यजत्राः ॥",
+    "hindi_meaning": "हे देवगण, हम कानों से भद्र (मंगल) सुनें, आँखों से भद्र देखें और पूजा करते हुए स्वस्थ रहें।",
+    "english_meaning": "O Gods, may we hear with our ears what is auspicious; may we see with our eyes what is auspicious."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "नमो नमस्ते स्फटिकप्रभाय सुश्वेतहाराय सुमंगलाय । सुपाशहस्ताय झषासनाय जलाधिनाथाय नमो नमस्ते ॥ (वरुण/विष्णु सन्दर्भ)",
+    "hindi_meaning": "स्फटिक जैसी आभा वाले, श्वेत हार पहने, मंगलमय, पाश धारण किए जल के स्वामी को नमस्कार।",
+    "english_meaning": "Salutations to the one shining like crystal, wearing a white garland, auspicious, holding a noose, Lord of waters."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "क्षीरोदार्णवसंभूते कमलनिवासिनी ।",
+    "hindi_meaning": "क्षीर सागर से उत्पन्न और कमल में निवास करने वाली।",
+    "english_meaning": "Born from the Ocean of Milk and residing in a lotus."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "श्रियः कान्ताय (Used) -> भूतो भूतेषु (Check) -> ईशानां जगतोऽस्य (Used) -> लक्ष्मीनिवासाय नमोऽस्तु तुभ्यम् ।",
+    "hindi_meaning": "लक्ष्मी के निवास स्थान (श्रीनिवास) को नमस्कार।",
+    "english_meaning": "Salutations to the abode of Lakshmi."
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "ताटङ्क-युगली-भूत-तपनोडुप-मण्डला ।",
+    "hindi_meaning": "सूर्य और चंद्रमा जिनके ताटंक (कान के आभूषण) हैं। (ललिता सहस्रनाम)",
+    "english_meaning": "She who has the sun and moon as her ear ornaments."
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "महेशं सुरेशं सुरारातिनाशं विभुं विश्वनाथं विभूत्यङ्गभूषणम् ।",
+    "hindi_meaning": "महेश, सुरेश, असुरों के नाशक, विभु, विश्वनाथ और भस्म को आभूषण बनाने वाले।",
+    "english_meaning": "Mahesha, Suresha, destroyer of enemies of gods, omnipresent, Lord of the Universe, adorned with ash."
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "सृष्टिस्थितिविनाशानां (Used) -> शरणागतदीनार्त (Used) -> सर्वमंगल (Used) -> महिषासुरनिर्णाशि भक्तानां सुखदे नमः ।",
+    "hindi_meaning": "महिषासुर का नाश करने वाली और भक्तों को सुख देने वाली देवी को नमस्कार।",
+    "english_meaning": "Salutations to the destroyer of Mahishasura and the giver of happiness to devotees."
+  },
+  {
+    "category": "General",
+    "sanskrit": "दीपज्योतिः परब्रह्म दीपज्योतिर्जनार्दनः । दीपो हरतु मे पापं दीपज्योतिर्नमोऽस्तु ते ॥",
+    "hindi_meaning": "दीप की ज्योति परब्रह्म है, दीप की ज्योति जनार्दन है। दीपक मेरे पापों को हर ले, दीप ज्योति को नमस्कार।",
+    "english_meaning": "The light of the lamp is Supreme Brahman, the light is Janardana. May the lamp remove my sins; salutations to the light of the lamp."
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "नारायणं नमस्कृत्य नरं चैव नरोत्तमम् । देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत् ॥",
+    "hindi_meaning": "नारायण, नरोत्तम नर, देवी सरस्वती और व्यास जी को नमस्कार करके 'जय' (महाभारत/पुराण) का पाठ करना चाहिए।",
+    "english_meaning": "Having bowed to Narayana, Nara, Goddess Saraswati, and Vyasa, one should utter 'Jaya'."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "फुल्लाम्बुजद्युतिपते (Error check) -> प्रबुद्ध्यतां मे (check) -> उत्तिष्ठोत्तिष्ठ गोविन्द उत्तिष्ठ गरुडध्वज । उत्तिष्ठ कमलाकान्त त्रैलोक्यं मङ्गलं कुरु ॥",
+    "hindi_meaning": "उठिए गोविंद, उठिए गरुड़ध्वज, उठिए कमलाकान्त और तीनों लोकों का मंगल कीजिए।",
+    "english_meaning": "Awake, O Govinda! Awake, O One with the Garuda flag! Awake, O Beloved of Kamala, and bless the three worlds."
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "ददतु ददतु वाणीं (check) -> घृतक्षीरद्राक्षामधुमधुरिमा कैरपि पदैः (कनकधारा)",
+    "hindi_meaning": "घी, दूध, अंगूर और शहद जैसी मधुर वाणी/पदों से...",
+    "english_meaning": "With words as sweet as ghee, milk, grapes, and honey..."
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "ॐ नमो वेंकटेशाय",
+    "hindi_meaning": "श्री वेंकटेश भगवान को नमस्कार है",
+    "english_meaning": "Salutations to Lord Venkateswara"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "ॐ ऐं ह्रीं श्रीं महालक्ष्म्यै नमः",
+    "hindi_meaning": "महालक्ष्मी देवी को नमस्कार, ऐं ह्रीं श्रीं बीज मंत्रों के साथ",
+    "english_meaning": "Salutations to Mahalakshmi with the seed mantras Aim Hreem Shreem"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "ॐ नमो भगवते वासुदेवाय",
+    "hindi_meaning": "भगवान वासुदेव को नमस्कार",
+    "english_meaning": "Salutations to Lord Vasudeva"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "ॐ श्रीं महालक्ष्म्यै च विद्महे विष्णुपत्न्यै च धीमहि तन्नो लक्ष्मी प्रचोदयात्",
+    "hindi_meaning": "हम महालक्ष्मी का ध्यान करते हैं, विष्णु की पत्नी का चिंतन करते हैं, वह लक्ष्मी हमें प्रेरित करें",
+    "english_meaning": "We meditate upon Mahalakshmi, contemplate upon Vishnu's consort, may that Lakshmi inspire us"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "ॐ नमः शिवाय",
+    "hindi_meaning": "शिव जी को नमस्कार",
+    "english_meaning": "Salutations to Lord Shiva"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "ॐ दुं दुर्गायै नमः",
+    "hindi_meaning": "दुर्गा देवी को नमस्कार, दुं बीज मंत्र के साथ",
+    "english_meaning": "Salutations to Goddess Durga with the seed mantra Dum"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "ॐ नमो नारायणाय",
+    "hindi_meaning": "नारायण भगवान को नमस्कार",
+    "english_meaning": "Salutations to Lord Narayana"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "श्रीनिवासाय नमस्तुभ्यं सर्वकामफलप्रद",
+    "hindi_meaning": "हे श्रीनिवास! आपको नमस्कार, आप सभी इच्छाओं के फल देने वाले हैं",
+    "english_meaning": "O Srinivasa! Salutations to you, you grant the fruits of all desires"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "ॐ ह्रीं श्रीं क्लीं महात्रिपुरसुन्दर्यै नमः",
+    "hindi_meaning": "महात्रिपुरसुन्दरी देवी को नमस्कार, ह्रीं श्रीं क्लीं बीज मंत्रों के साथ",
+    "english_meaning": "Salutations to Mahatripurasundari with seed mantras Hreem Shreem Kleem"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम्",
+    "hindi_meaning": "शांत स्वरूप, सर्प पर शयन करने वाले, कमल नाभि वाले, देवों के स्वामी, विश्व के आधार, आकाश के समान, मेघ के समान वर्ण वाले, सुंदर अंगों वाले",
+    "english_meaning": "Peaceful form, reclining on serpent, lotus-naveled, lord of gods, supporter of universe, sky-like, cloud-colored, with beautiful limbs"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "लक्ष्मीर्देवी प्रसीदतु",
+    "hindi_meaning": "देवी लक्ष्मी प्रसन्न हों",
+    "english_meaning": "May Goddess Lakshmi be pleased"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्",
+    "hindi_meaning": "हम तीन नेत्रों वाले, सुगंधित, समृद्धि बढ़ाने वाले की पूजा करते हैं",
+    "english_meaning": "We worship the three-eyed one, fragrant, prosperity-increasing"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "सर्वमंगलमांगल्ये शिवे सर्वार्थसाधिके",
+    "hindi_meaning": "सभी मंगलों में मंगलमयी, कल्याणकारी, सभी अर्थों को सिद्ध करने वाली",
+    "english_meaning": "Most auspicious among all auspicious, benevolent, accomplisher of all objectives"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणं नमस्कृत्य नरं चैव नरोत्तमम्",
+    "hindi_meaning": "नारायण को नमस्कार करके और नरोत्तम (मनुष्यों में श्रेष्ठ) को",
+    "english_meaning": "Having saluted Narayana and the supreme among humans"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "वेंकटाचलनिलयाय हरये नमस्ते",
+    "hindi_meaning": "वेंकटाचल में निवास करने वाले हरि को नमस्कार",
+    "english_meaning": "Salutations to Hari who resides in Venkatachala"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "ॐ ऐं ह्रीं श्रीं सौः सौः श्रीं ह्रीं ऐं ॐ",
+    "hindi_meaning": "श्री विद्या के बीज मंत्रों का चक्र",
+    "english_meaning": "The cycle of Sri Vidya seed mantras"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "विष्णोः सहस्रनामस्तोत्रं पठामि",
+    "hindi_meaning": "विष्णु के सहस्रनाम स्तोत्र का पाठ करता हूं",
+    "english_meaning": "I recite the thousand names hymn of Vishnu"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "कमलासनस्थिते देवि क्षीरसागरनन्दिनि",
+    "hindi_meaning": "कमल आसन पर विराजमान देवी, क्षीरसागर की पुत्री",
+    "english_meaning": "Goddess seated on lotus, daughter of the ocean of milk"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "रुद्राय च नमस्तुभ्यं सर्वभूतहिताय च",
+    "hindi_meaning": "रुद्र को नमस्कार, सभी प्राणियों के हित के लिए",
+    "english_meaning": "Salutations to Rudra, for the welfare of all beings"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "दुर्गे स्मृता हरसि भीतिमशेषजन्तोः",
+    "hindi_meaning": "हे दुर्गे! स्मरण करने पर तुम सभी प्राणियों के भय को हर लेती हो",
+    "english_meaning": "O Durga! When remembered, you remove fear from all beings"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणपरो धर्मः सर्वभूतहितः सदा",
+    "hindi_meaning": "नारायण को समर्पित धर्म सदा सभी प्राणियों के हितकारी है",
+    "english_meaning": "Dharma dedicated to Narayana is always beneficial to all beings"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "बालाजी मंगलं भवतु",
+    "hindi_meaning": "बालाजी का मंगल हो",
+    "english_meaning": "May there be auspiciousness of Balaji"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "ललिताम्बिकायै नमः",
+    "hindi_meaning": "ललिताम्बिका देवी को नमस्कार",
+    "english_meaning": "Salutations to Goddess Lalitambika"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "हरे राम हरे राम राम राम हरे हरे",
+    "hindi_meaning": "हे हरी! हे राम! राम नाम का जप करो",
+    "english_meaning": "O Hari! O Rama! Chant the name of Rama"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "महालक्ष्म्यष्टकं पठेत्",
+    "hindi_meaning": "महालक्ष्मी अष्टक का पाठ करना चाहिए",
+    "english_meaning": "One should recite the eight verses of Mahalakshmi"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "महामृत्युंजय मंत्रोयं पठ्यते",
+    "hindi_meaning": "यह महामृत्युंजय मंत्र पढ़ा जाता है",
+    "english_meaning": "This Mahamrityunjaya mantra is recited"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "यानि कानि च पापानि जन्मान्तरकृतानि च",
+    "hindi_meaning": "जो भी पाप इस जन्म और पूर्व जन्मों में किए गए हैं",
+    "english_meaning": "Whatever sins committed in this birth and previous births"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणस्य पादाब्जं ध्यायेत् सर्वदा साधकः",
+    "hindi_meaning": "साधक को सदा नारायण के चरण कमल का ध्यान करना चाहिए",
+    "english_meaning": "The seeker should always meditate on Narayana's lotus feet"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "श्रीवेंकटेश चरणौ शरणं प्रपद्ये",
+    "hindi_meaning": "श्री वेंकटेश के चरणों की शरण लेता हूं",
+    "english_meaning": "I take refuge at the feet of Sri Venkatesha"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "श्रीविद्यायै नमो नमः",
+    "hindi_meaning": "श्री विद्या देवी को बार-बार नमस्कार",
+    "english_meaning": "Repeated salutations to Sri Vidya Devi"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "विष्णु सहस्रनाम्नां स्तवनं करोमि",
+    "hindi_meaning": "विष्णु के सहस्रनाम का स्तवन करता हूं",
+    "english_meaning": "I praise the thousand names of Vishnu"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "लक्ष्मी नारायण संयुक्तौ प्रसीदतां ममोपरि",
+    "hindi_meaning": "लक्ष्मी और नारायण मुझ पर प्रसन्न हों",
+    "english_meaning": "May Lakshmi and Narayana be pleased with me"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "शिव पञ्चाक्षरी मन्त्रः ओं नमः शिवाय",
+    "hindi_meaning": "शिव का पाँच अक्षर वाला मंत्र: ॐ नमः शिवाय",
+    "english_meaning": "Shiva's five-syllable mantra: Om Namah Shivaya"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "देव्यापराधक्षमापनस्तोत्रं पठामि",
+    "hindi_meaning": "देवी के अपराधों की क्षमा याचना का स्तोत्र पढ़ता हूं",
+    "english_meaning": "I recite the hymn for forgiveness of offenses to the Goddess"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणाय विद्महे वासुदेवाय धीमहि",
+    "hindi_meaning": "हम नारायण को जानते हैं, वासुदेव का ध्यान करते हैं",
+    "english_meaning": "We know Narayana, we meditate upon Vasudeva"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "तिरुपति वेंकटरमण प्रभुवे नमः",
+    "hindi_meaning": "तिरुपति के वेंकटरमण प्रभु को नमस्कार",
+    "english_meaning": "Salutations to Lord Venkataramana of Tirupati"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "कादि विद्या महाविद्या श्रीविद्या परमेश्वरी",
+    "hindi_meaning": "क से शुरू होने वाली विद्या, महाविद्या, श्रीविद्या, परमेश्वरी",
+    "english_meaning": "The knowledge beginning with Ka, great knowledge, Sri Vidya, supreme goddess"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "विष्णोर्नु कं वीर्याणि प्रवोचं",
+    "hindi_meaning": "विष्णु के पराक्रमों का वर्णन करता हूं",
+    "english_meaning": "I proclaim the heroic deeds of Vishnu"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "लक्ष्मीकान्ताय नमस्तुभ्यं सर्वाभीष्टप्रदाय च",
+    "hindi_meaning": "लक्ष्मी के स्वामी को नमस्कार, सभी इच्छाओं को पूरा करने वाले",
+    "english_meaning": "Salutations to the consort of Lakshmi, fulfiller of all desires"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "शंभो शंकर पशुपते महादेव शूलिन्",
+    "hindi_meaning": "हे शंभो! हे शंकर! हे पशुपति! हे महादेव! हे शूलधारी!",
+    "english_meaning": "O Shambho! O Shankara! O Pashupati! O Mahadeva! O Trident-bearer!"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "जयन्ती मंगला काली भद्रकाली कपालिनी",
+    "hindi_meaning": "जयन्ती, मंगला, काली, भद्रकाली, कपालिनी",
+    "english_meaning": "Jayanti, Mangala, Kali, Bhadrakali, Kapalini"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणस्य प्रसादेन सर्वं सिद्ध्यति नान्यथा",
+    "hindi_meaning": "नारायण की कृपा से सब कुछ सिद्ध होता है, अन्यथा नहीं",
+    "english_meaning": "Everything is accomplished by Narayana's grace, not otherwise"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "श्रीवाराहीसमेताय श्रीनिवासाय मंगलम्",
+    "hindi_meaning": "श्री वाराही के साथ विराजमान श्रीनिवास को मंगल हो",
+    "english_meaning": "Auspiciousness to Srinivasa accompanied by Sri Varahi"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "सौन्दर्यलहरी पाठः करिष्यते",
+    "hindi_meaning": "सौन्दर्यलहरी का पाठ किया जाएगा",
+    "english_meaning": "The Saundaryalahari will be recited"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "विष्णुपदं गताः सन्तो न पुनर्जन्म भाजनम्",
+    "hindi_meaning": "विष्णु के पद को प्राप्त करने वाले संत फिर जन्म नहीं लेते",
+    "english_meaning": "Saints who reach Vishnu's feet do not take birth again"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "लक्ष्मीप्रीतिकरं स्तोत्रं वदामि",
+    "hindi_meaning": "लक्ष्मी को प्रसन्न करने वाला स्तोत्र बोलता हूं",
+    "english_meaning": "I recite the hymn that pleases Lakshmi"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "उरुधरेश्वर महादेव त्रिपुरान्तक",
+    "hindi_meaning": "उरुधरेश्वर, महादेव, त्रिपुरान्तक",
+    "english_meaning": "Urugiveshwara, Mahadeva, destroyer of Tripura"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "दुर्गादेवी प्रसन्ना मे भवतु",
+    "hindi_meaning": "दुर्गा देवी मुझ पर प्रसन्न हों",
+    "english_meaning": "May Goddess Durga be pleased with me"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणोऽहं नारायणी मे शक्तिः",
+    "hindi_meaning": "मैं नारायण हूं, नारायणी मेरी शक्ति है",
+    "english_meaning": "I am Narayana, Narayani is my power"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "बालाजी प्रतिमां दृष्ट्वा प्रणमामि",
+    "hindi_meaning": "बालाजी की प्रतिमा देखकर प्रणाम करता हूं",
+    "english_meaning": "Seeing Balaji's idol, I bow down"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "त्रिपुरसुन्दरी देवी कात्यायनि नमोऽस्तु ते",
+    "hindi_meaning": "त्रिपुरसुन्दरी देवी, कात्यायनी, आपको नमस्कार",
+    "english_meaning": "Goddess Tripurasundari, Katyayani, salutations to you"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "विष्णोः प्रसादं विना किमपि न सिद्ध्यति",
+    "hindi_meaning": "विष्णु की कृपा के बिना कुछ भी सिद्ध नहीं होता",
+    "english_meaning": "Without Vishnu's grace, nothing is accomplished"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "लक्ष्मीस्तवं प्रातः पठेत्",
+    "hindi_meaning": "लक्ष्मी स्तव का प्रातः पाठ करना चाहिए",
+    "english_meaning": "One should recite Lakshmi's hymn in the morning"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "शिव शिव शिवेति जपन् मुक्तो भवति",
+    "hindi_meaning": "शिव शिव शिव ऐसा जप करने वाला मुक्त हो जाता है",
+    "english_meaning": "One who chants Shiva Shiva Shiva becomes liberated"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "दुर्गासप्तशती पाठः क्रियते",
+    "hindi_meaning": "दुर्गा सप्तशती का पाठ किया जाता है",
+    "english_meaning": "The Durga Saptashati is recited"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणं भजाम्यहं सर्वदा",
+    "hindi_meaning": "मैं सदा नारायण का भजन करता हूं",
+    "english_meaning": "I always worship Narayana"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "श्रीवेंकटेशाय दिव्याय नमः",
+    "hindi_meaning": "दिव्य श्री वेंकटेश को नमस्कार",
+    "english_meaning": "Salutations to the divine Sri Venkatesha"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "श्रीचक्रं पूजयाम्यहं",
+    "hindi_meaning": "मैं श्रीचक्र की पूजा करता हूं",
+    "english_meaning": "I worship the Sri Chakra"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "विष्णुरूपं विभावये",
+    "hindi_meaning": "विष्णु के रूप का ध्यान करता हूं",
+    "english_meaning": "I meditate upon the form of Vishnu"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "लक्ष्मीपते करुणासिन्धो",
+    "hindi_meaning": "हे लक्ष्मीपति! हे करुणा के सागर!",
+    "english_meaning": "O Lord of Lakshmi! O ocean of compassion!"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "शिवस्य हृदयं ध्यायेत्",
+    "hindi_meaning": "शिव के हृदय का ध्यान करना चाहिए",
+    "english_meaning": "One should meditate upon Shiva's heart"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "दुर्गायाः स्तुतिं करोमि",
+    "hindi_meaning": "दुर्गा की स्तुति करता हूं",
+    "english_meaning": "I praise Durga"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणस्य नामानि कीर्तयामि",
+    "hindi_meaning": "नारायण के नामों का कीर्तन करता हूं",
+    "english_meaning": "I chant the names of Narayana"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "तिरुमलै निलयाय नमः",
+    "hindi_meaning": "तिरुमलै में निवास करने वाले को नमस्कार",
+    "english_meaning": "Salutations to the dweller of Tirumalai"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "महात्रिपुरसुन्दर्यै द्वादशाक्षरविद्यायै नमः",
+    "hindi_meaning": "महात्रिपुरसुन्दरी को, बारह अक्षर वाली विद्या को नमस्कार",
+    "english_meaning": "Salutations to Mahatripurasundari, the twelve-syllable knowledge"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "विष्णुगायत्रीमुपासे",
+    "hindi_meaning": "विष्णु गायत्री का उपासन करता हूं",
+    "english_meaning": "I worship the Vishnu Gayatri"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "लक्ष्मीवरदा भव मे",
+    "hindi_meaning": "हे लक्ष्मी! मुझ पर वरदान रहो",
+    "english_meaning": "O Lakshmi! Be gracious to me"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "शिवस्य दर्शनं पुण्यं भुक्तिमुक्तिप्रदं सदा",
+    "hindi_meaning": "शिव का दर्शन पुण्यदायक है, सदा भोग और मोक्ष देने वाला है",
+    "english_meaning": "Vision of Shiva is meritorious, always granting enjoyment and liberation"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "दुर्गा दुर्गतिनाशिनी",
+    "hindi_meaning": "दुर्गा कष्टों का नाश करने वाली",
+    "english_meaning": "Durga destroys difficulties"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणपरायणो भूत्वा मोक्षमवाप्नुयात्",
+    "hindi_meaning": "नारायण को समर्पित होकर मोक्ष प्राप्त करता है",
+    "english_meaning": "By being devoted to Narayana, one attains liberation"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "वेंकटेश्वर महात्म्यं पठामि",
+    "hindi_meaning": "वेंकटेश्वर के महात्म्य का पाठ करता हूं",
+    "english_meaning": "I recite the glory of Venkateshwara"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "श्रीविद्याराधनं कुर्वन् सिद्धिमाप्नोति निश्चितम्",
+    "hindi_meaning": "श्री विद्या की आराधना करने वाला निश्चित रूप से सिद्धि प्राप्त करता है",
+    "english_meaning": "One who worships Sri Vidya definitely attains accomplishment"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "विष्णोः स्मरणमात्रेण पापं नश्यति तत्क्षणात्",
+    "hindi_meaning": "विष्णु के स्मरण मात्र से पाप तत्क्षण नष्ट हो जाता है",
+    "english_meaning": "By mere remembrance of Vishnu, sin is destroyed instantly"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "लक्ष्मीकवचं धारयन् रक्ष्यते",
+    "hindi_meaning": "लक्ष्मी कवच धारण करने वाला सुरक्षित रहता है",
+    "english_meaning": "One who wears Lakshmi's armor is protected"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "शिवार्चनं परं धर्मः सर्वपापप्रणाशनम्",
+    "hindi_meaning": "शिव की अर्चना परम धर्म है, सभी पापों को नष्ट करने वाला",
+    "english_meaning": "Worship of Shiva is supreme dharma, destroying all sins"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "दुर्गाया नवरात्रे पूजां करोमि",
+    "hindi_meaning": "दुर्गा के नवरात्र में पूजा करता हूं",
+    "english_meaning": "I perform worship during Durga's Navaratri"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणस्य प्रियो भक्तः सर्वत्र विजयी भवेत्",
+    "hindi_meaning": "नारायण का प्रिय भक्त सर्वत्र विजयी होता है",
+    "english_meaning": "Narayana's dear devotee becomes victorious everywhere"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "श्रीवेंकटेशप्रसादं भुक्त्वा मुक्तिं लभेत्",
+    "hindi_meaning": "श्री वेंकटेश का प्रसाद खाकर मुक्ति प्राप्त करता है",
+    "english_meaning": "By eating Sri Venkatesha's prasad, one attains liberation"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "पञ्चदशाक्षरी विद्या महाविद्या प्रकीर्तिता",
+    "hindi_meaning": "पंद्रह अक्षर वाली विद्या महाविद्या कही गई है",
+    "english_meaning": "The fifteen-syllable knowledge is proclaimed as Mahavidya"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "विष्णुमाया जगत्सर्वं विष्णुरेव सनातनः",
+    "hindi_meaning": "विष्णु की माया ही सारा जगत है, विष्णु ही सनातन हैं",
+    "english_meaning": "Vishnu's maya is the entire world, Vishnu alone is eternal"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "लक्ष्मीपूजा कर्तव्या प्रतिदिनं गृहे गृहे",
+    "hindi_meaning": "लक्ष्मी पूजा प्रतिदिन घर-घर करनी चाहिए",
+    "english_meaning": "Lakshmi worship should be done daily in every home"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "शिवलिङ्गं प्रतिष्ठाप्य पूजयेत्",
+    "hindi_meaning": "शिवलिंग की प्रतिष्ठा करके पूजा करनी चाहिए",
+    "english_meaning": "Having installed Shiva Linga, one should worship it"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "दुर्गादेव्याः कवचं पठन् भयमुक्तो भवति",
+    "hindi_meaning": "दुर्गा देवी का कवच पढ़ने वाला भय से मुक्त हो जाता है",
+    "english_meaning": "One who recites Durga Devi's armor becomes free from fear"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणस्य स्मरणं मुक्तेः कारणं परमं",
+    "hindi_meaning": "नारायण का स्मरण मुक्ति का परम कारण है",
+    "english_meaning": "Remembrance of Narayana is the supreme cause of liberation"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "वेंकटाद्रिनिवासिने हरये नमः",
+    "hindi_meaning": "वेंकटाद्रि में निवास करने वाले हरि को नमस्कार",
+    "english_meaning": "Salutations to Hari who resides in Venkatadri"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "श्रीविद्यायाः यन्त्रं पूजयामि",
+    "hindi_meaning": "श्री विद्या के यंत्र की पूजा करता हूं",
+    "english_meaning": "I worship the Sri Vidya yantra"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "विष्णोर्द्वादशनामानि जपेत् प्रातः सदा",
+    "hindi_meaning": "विष्णु के बारह नामों का सदा प्रातः जप करना चाहिए",
+    "english_meaning": "One should always chant Vishnu's twelve names in the morning"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "लक्ष्मीस्तोत्रं पठन् धनवान् भवति",
+    "hindi_meaning": "लक्ष्मी स्तोत्र पढ़ने वाला धनवान बनता है",
+    "english_meaning": "One who recites Lakshmi's hymn becomes wealthy"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "शिवस्याष्टोत्तरशतनामावलिं पठेत्",
+    "hindi_meaning": "शिव की अठारह नामावली का पाठ करना चाहिए",
+    "english_meaning": "One should recite Shiva's 108 names"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "दुर्गाया नामसंकीर्तनं करोमि",
+    "hindi_meaning": "दुर्गा के नाम का संकीर्तन करता हूं",
+    "english_meaning": "I chant the names of Durga"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणस्य कृपया सर्वं सम्पद्यते",
+    "hindi_meaning": "नारायण की कृपा से सब कुछ सम्पन्न होता है",
+    "english_meaning": "Everything is accomplished by Narayana's grace"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "श्रीवेंकटेशं भजामि नित्यं",
+    "hindi_meaning": "मैं नित्य श्री वेंकटेश का भजन करता हूं",
+    "english_meaning": "I daily worship Sri Venkatesha"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "ललितासहस्रनामस्तोत्रं पठामि",
+    "hindi_meaning": "ललिता सहस्रनाम स्तोत्र का पाठ करता हूं",
+    "english_meaning": "I recite Lalita Sahasranama Stotra"
+  },
+  {
+    "category": "Vishnu",
+    "sanskrit": "विष्णुपूजाविधिं सम्यक् करोमि",
+    "hindi_meaning": "विष्णु पूजा विधि को सम्यक् रूप से करता हूं",
+    "english_meaning": "I properly perform Vishnu worship ritual"
+  },
+  {
+    "category": "Lakshmi",
+    "sanskrit": "लक्ष्मीप्रियं हरिं भजे",
+    "hindi_meaning": "लक्ष्मी के प्रिय हरि का भजन करता हूं",
+    "english_meaning": "I worship Hari who is dear to Lakshmi"
+  },
+  {
+    "category": "Shiva",
+    "sanskrit": "शिवस्य प्रसादं विना ज्ञानं न लभ्यते",
+    "hindi_meaning": "शिव की कृपा के बिना ज्ञान प्राप्त नहीं होता",
+    "english_meaning": "Without Shiva's grace, knowledge is not attained"
+  },
+  {
+    "category": "Durga",
+    "sanskrit": "दुर्गायाः प्रतिमां दृष्ट्वा प्रणामं करोमि",
+    "hindi_meaning": "दुर्गा की प्रतिमा देखकर प्रणाम करता हूं",
+    "english_meaning": "Seeing Durga's image, I bow down"
+  },
+  {
+    "category": "Narayana",
+    "sanskrit": "नारायणस्य ध्यानं मोक्षदायकं भवति",
+    "hindi_meaning": "नारायण का ध्यान मोक्ष देने वाला होता है",
+    "english_meaning": "Meditation on Narayana becomes liberating"
+  },
+  {
+    "category": "Venkateswara",
+    "sanskrit": "वेंकटेश्वरस्य दर्शनं पुण्यं भवति",
+    "hindi_meaning": "वेंकटेश्वर का दर्शन पुण्यदायक होता है",
+    "english_meaning": "Vision of Venkateshwara becomes meritorious"
+  },
+  {
+    "category": "Sri Vidya",
+    "sanskrit": "श्रीविद्यायाः उपासकः सिद्धो भवति",
+    "hindi_meaning": "श्री विद्या का उपासक सिद्ध हो जाता है",
+    "english_meaning": "The worshipper of Sri Vidya becomes accomplished"
+  }
+]
