@@ -13,7 +13,7 @@ import Donation from "./pages/Donation";
 import ProtectedRoute from "./components/ProtectedRoute";
 import Navbar from "./components/Navbar";
 import Layout from "./components/Layout";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import BrahmotsavaPage from "./pages/Brahmotsava" 
 import './i18n/i18n';
 import EventsPage from "./pages/EventsPage";
