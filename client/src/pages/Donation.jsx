@@ -9,7 +9,8 @@ const Donation = () => {
   const [step, setStep] = useState(1);
   const [formData, setFormData] = useState({
     amount: '',
-    purpose: '',
+    purpose: 'brahmotsav',
+    otherPurpose: '',
     donorName: '',
     donorEmail: '',
     transactionId: '',
@@ -17,91 +18,15 @@ const Donation = () => {
     screenshotPreview: null
   });
   const [loading, setLoading] = useState(false);
-  const [user, setUser] = useState(null);
   const [errors, setErrors] = useState({});
   const fileInputRef = useRef(null);
 
   const purposeOptions = [
-    { 
-      category: 'Festivals', 
-      items: [
-        { value: 'brahmotsav', label: 'Brahmotsavam', emoji: '🎊', active: true },
-        { value: 'diwali', label: 'Diwali', emoji: '🪔' },
-        { value: 'holi', label: 'Holi', emoji: '🌈' },
-        { value: 'janmashtami', label: 'Janmashtami', emoji: '🦚' },
-        { value: 'shivaratri', label: 'Shivaratri', emoji: '🔱' },
-        { value: 'navaratri', label: 'Navaratri', emoji: '🌺' },
-        { value: 'ganesh_chaturthi', label: 'Ganesh Chaturthi', emoji: '🐘' },
-        { value: 'ram_navami', label: 'Ram Navami', emoji: '🏹' }
-      ]
-    },
-    { 
-      category: 'Worship Services', 
-      items: [
-        { value: 'special_pooja', label: 'Special Pooja', emoji: '🙏' },
-        { value: 'abhishekam', label: 'Abhishekam', emoji: '💧' },
-        { value: 'aarti', label: 'Aarti', emoji: '🕯️' },
-        { value: 'annadanam', label: 'Annadanam', emoji: '🍽️' },
-        { value: 'prasadam', label: 'Prasadam', emoji: '🥥' }
-      ]
-    },
-    { 
-      category: 'Temple Services', 
-      items: [
-        { value: 'general', label: 'General Donation', emoji: '💰' },
-        { value: 'maintenance', label: 'Maintenance', emoji: '🔧' },
-        { value: 'decoration', label: 'Decoration', emoji: '🌸' },
-        { value: 'lighting', label: 'Lighting', emoji: '💡' },
-        { value: 'sound_system', label: 'Sound System', emoji: '🔊' },
-        { value: 'security', label: 'Security', emoji: '🛡️' },
-        { value: 'cleaning', label: 'Cleaning', emoji: '🧹' }
-      ]
-    },
-    { 
-      category: 'Development', 
-      items: [
-        { value: 'construction', label: 'Construction', emoji: '🏗️' },
-        { value: 'education', label: 'Education', emoji: '📚' },
-        { value: 'other', label: 'Other', emoji: '📝' }
-      ]
-    }
+    { value: 'brahmotsav', label: 'Brahmotsavam', emoji: '🎊' },
+    { value: 'other', label: 'Other', emoji: '📝' }
   ];
 
-  useEffect(() => {
-    const token = localStorage.getItem('token');
-    if (!token) {
-      navigate('/login');
-      return;
-    }
-    fetchUserProfile();
-  }, [navigate]);
-
-  const fetchUserProfile = async () => {
-    try {
-      const token = localStorage.getItem('token');
-      const response = await fetch('http://localhost:5000/api/profile', {
-        headers: { 
-          'Authorization': `Bearer ${token}`,
-          'Content-Type': 'application/json'
-        }
-      });
-      
-      if (response.ok) {
-        const data = await response.json();
-        setUser(data.profile);
-        setFormData(prev => ({
-          ...prev,
-          donorName: data.profile.fullName || '',
-          donorEmail: data.profile.email || ''
-        }));
-      } else {
-        throw new Error('Failed to fetch profile');
-      }
-    } catch (error) {
-      console.error('Error fetching profile:', error);
-      navigate('/auth');
-    }
-  };
+  // No authentication required for donation page
 
   const validateStep1 = () => {
     const newErrors = {};
@@ -234,12 +159,13 @@ const Donation = () => {
 
     setLoading(true);
     try {
-      const token = localStorage.getItem('token');
-      
       // Create FormData with all required fields
       const submitData = new FormData();
       submitData.append('amount', formData.amount);
-      submitData.append('purpose', formData.purpose);
+      const finalPurpose = formData.purpose === 'other' && formData.otherPurpose.trim() 
+        ? formData.otherPurpose.trim() 
+        : formData.purpose;
+      submitData.append('purpose', finalPurpose);
       submitData.append('donorName', formData.donorName.trim());
       submitData.append('donorEmail', formData.donorEmail.trim());
       submitData.append('transactionId', formData.transactionId.trim());
@@ -253,9 +179,6 @@ const Donation = () => {
       
       const response = await fetch('http://localhost:5000/api/donations', {
         method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${token}`
-        },
         body: submitData
       });
 
@@ -281,14 +204,7 @@ const Donation = () => {
     }).format(amount);
   };
 
-  if (!user) {
-    return (
-      <div className="donation-loading">
-        <div className="loader">ॐ</div>
-        <p>{t('common.loading')}</p>
-      </div>
-    );
-  }
+
 
   return (
     <div className="donation-container">
@@ -392,28 +308,36 @@ const Donation = () => {
             </div>
             
             <div className="purpose-section">
-              {purposeOptions.map((category, idx) => (
-                <div key={idx} className="purpose-category">
-                  <h3>{category.category}</h3>
-                  <div className="purpose-grid">
-                    {category.items.map(purpose => (
-                      <button
-                        key={purpose.value}
-                        type="button"
-                        className={`purpose-btn ${formData.purpose === purpose.value ? 'selected' : ''} ${purpose.active ? 'featured' : ''}`}
-                        onClick={() => {
-                          setFormData(prev => ({ ...prev, purpose: purpose.value }));
-                          if (errors.purpose) setErrors(prev => ({ ...prev, purpose: '' }));
-                        }}
-                      >
-                        <span className="purpose-emoji">{purpose.emoji}</span>
-                        <span className="purpose-label">{purpose.label}</span>
-                        {purpose.active && <span className="active-badge">Current</span>}
-                      </button>
-                    ))}
-                  </div>
+              <div className="purpose-grid">
+                {purposeOptions.map(purpose => (
+                  <button
+                    key={purpose.value}
+                    type="button"
+                    className={`purpose-btn ${formData.purpose === purpose.value ? 'selected' : ''}`}
+                    onClick={() => {
+                      setFormData(prev => ({ ...prev, purpose: purpose.value }));
+                      if (errors.purpose) setErrors(prev => ({ ...prev, purpose: '' }));
+                    }}
+                  >
+                    <span className="purpose-emoji">{purpose.emoji}</span>
+                    <span className="purpose-label">{purpose.label}</span>
+                  </button>
+                ))}
+              </div>
+              
+              {formData.purpose === 'other' && (
+                <div className="other-purpose-input">
+                  <label>Describe your donation purpose:</label>
+                  <textarea
+                    name="otherPurpose"
+                    value={formData.otherPurpose}
+                    onChange={handleInputChange}
+                    placeholder="Please describe the purpose of your donation (optional)"
+                    rows="3"
+                  />
                 </div>
-              ))}
+              )}
+              
               {errors.purpose && <div className="error-message">⚠️ {errors.purpose}</div>}
             </div>
             
@@ -470,7 +394,9 @@ const Donation = () => {
                     <div className="detail-item">
                       <span className="label">Purpose:</span>
                       <span className="value">
-                        {purposeOptions.flatMap(c => c.items).find(p => p.value === formData.purpose)?.label}
+                        {formData.purpose === 'other' && formData.otherPurpose 
+                          ? formData.otherPurpose 
+                          : purposeOptions.find(p => p.value === formData.purpose)?.label}
                       </span>
                     </div>
                   </div>
@@ -629,7 +555,11 @@ const Donation = () => {
                 </div>
                 <div className="summary-item">
                   <span>Purpose:</span>
-                  <span>{purposeOptions.flatMap(c => c.items).find(p => p.value === formData.purpose)?.label}</span>
+                  <span>
+                    {formData.purpose === 'other' && formData.otherPurpose 
+                      ? formData.otherPurpose 
+                      : purposeOptions.find(p => p.value === formData.purpose)?.label}
+                  </span>
                 </div>
                 <div className="summary-item">
                   <span>Transaction ID:</span>
@@ -654,9 +584,10 @@ const Donation = () => {
                     setStep(1);
                     setFormData({
                       amount: '',
-                      purpose: '',
-                      donorName: user?.fullName || '',
-                      donorEmail: user?.email || '',
+                      purpose: 'brahmotsav',
+                      otherPurpose: '',
+                      donorName: '',
+                      donorEmail: '',
                       transactionId: '',
                       screenshot: null,
                       screenshotPreview: null

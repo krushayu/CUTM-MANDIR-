@@ -32,14 +32,9 @@ export default function Profile() {
     { type: "mantra", title: "Gayatri Mantra", date: "2 weeks ago", icon: "📿" }
   ];
 
-  const [donations, setDonations] = useState([]);
-  const [showAllDonations, setShowAllDonations] = useState(false);
-  const [selectedDonation, setSelectedDonation] = useState(null);
-
   // Fetch user profile from backend
   useEffect(() => {
     fetchProfile();
-    fetchDonations();
   }, []);
 
   const fetchProfile = async () => {
@@ -58,28 +53,7 @@ export default function Profile() {
     }
   };
 
-  const fetchDonations = async () => {
-    try {
-      const token = localStorage.getItem('token');
-      console.log('Fetching donations with token:', token ? 'Present' : 'Missing');
-      
-      const response = await fetch('http://localhost:5000/api/donations/user/history', {
-        headers: { 'Authorization': `Bearer ${token}` }
-      });
-      
-      console.log('Donation response status:', response.status);
-      
-      if (response.ok) {
-        const data = await response.json();
-        console.log('Donation data received:', data);
-        setDonations(data.donations || []);
-      } else {
-        console.log('Donation fetch failed:', response.statusText);
-      }
-    } catch (error) {
-      console.error('Error fetching donations:', error);
-    }
-  };
+
 
   const handleChange = (e) => {
     setProfile({ ...profile, [e.target.name]: e.target.value });
@@ -404,38 +378,6 @@ export default function Profile() {
 
         {/* Sidebar */}
         <div className="sidebar-section">
-          {/* Donation History */}
-          <div className="donation-history">
-            <h3>🙏 Donation History</h3>
-            {donations.length > 0 ? (
-              <div className="donation-list">
-                {donations.slice(0, 2).map((donation) => (
-                  <div key={donation.donationId} className="donation-item" onClick={() => setSelectedDonation(donation)}>
-                    <div className="donation-info">
-                      <div className="donation-amount">₹{donation.amount}</div>
-                      <div className="donation-purpose">{donation.purpose}</div>
-                      <div className="donation-date">
-                        {new Date(donation.createdAt).toLocaleDateString()}
-                      </div>
-                    </div>
-                    <div className={`donation-status ${donation.status}`}>
-                      {donation.status === 'pending' && '⏳'}
-                      {donation.status === 'verified' && '✅'}
-                      {donation.status === 'rejected' && '❌'}
-                    </div>
-                  </div>
-                ))}
-                {donations.length > 2 && (
-                  <button className="view-more-btn" onClick={() => setShowAllDonations(true)}>
-                    View More ({donations.length - 2} more)
-                  </button>
-                )}
-              </div>
-            ) : (
-              <p className="no-donations">No donations yet. <a href="/donation">Make your first donation</a></p>
-            )}
-          </div>
-
           {/* Quick Actions */}
           <div className="quick-actions">
             <h3>Quick Actions</h3>
@@ -466,87 +408,7 @@ export default function Profile() {
         </div>
       </div>
 
-      {/* All Donations Modal */}
-      {showAllDonations && (
-        <div className="modal-overlay" onClick={() => setShowAllDonations(false)}>
-          <div className="modal-content" onClick={(e) => e.stopPropagation()}>
-            <div className="modal-header">
-              <h3>📋 All Donations</h3>
-              <button className="close-btn" onClick={() => setShowAllDonations(false)}>✕</button>
-            </div>
-            <div className="modal-body">
-              <div className="all-donations-list">
-                {donations.map((donation) => (
-                  <div key={donation.donationId} className="donation-item-modal" onClick={() => {
-                    setSelectedDonation(donation);
-                    setShowAllDonations(false);
-                  }}>
-                    <div className="donation-info">
-                      <div className="donation-amount">₹{donation.amount}</div>
-                      <div className="donation-purpose">{donation.purpose}</div>
-                      <div className="donation-date">
-                        {new Date(donation.createdAt).toLocaleDateString()}
-                      </div>
-                      <div className="donation-id">ID: {donation.donationId}</div>
-                    </div>
-                    <div className={`donation-status ${donation.status}`}>
-                      {donation.status === 'pending' && '⏳'}
-                      {donation.status === 'verified' && '✅'}
-                      {donation.status === 'rejected' && '❌'}
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-        </div>
-      )}
 
-      {/* Donation Details Modal */}
-      {selectedDonation && (
-        <div className="modal-overlay" onClick={() => setSelectedDonation(null)}>
-          <div className="modal-content donation-details-modal" onClick={(e) => e.stopPropagation()}>
-            <div className="modal-header">
-              <h3>📝 Donation Details</h3>
-              <button className="close-btn" onClick={() => setSelectedDonation(null)}>✕</button>
-            </div>
-            <div className="modal-body">
-              <div className="donation-details">
-                <div className="detail-row">
-                  <span className="detail-label">Donation ID:</span>
-                  <span className="detail-value">{selectedDonation.donationId}</span>
-                </div>
-                <div className="detail-row">
-                  <span className="detail-label">Amount:</span>
-                  <span className="detail-value amount-highlight">₹{selectedDonation.amount}</span>
-                </div>
-                <div className="detail-row">
-                  <span className="detail-label">Purpose:</span>
-                  <span className="detail-value">{selectedDonation.purpose}</span>
-                </div>
-                <div className="detail-row">
-                  <span className="detail-label">Status:</span>
-                  <span className={`detail-value status-${selectedDonation.status}`}>
-                    {selectedDonation.status === 'pending' && '⏳ Pending Verification'}
-                    {selectedDonation.status === 'verified' && '✅ Verified'}
-                    {selectedDonation.status === 'rejected' && '❌ Rejected'}
-                  </span>
-                </div>
-                <div className="detail-row">
-                  <span className="detail-label">Date:</span>
-                  <span className="detail-value">{new Date(selectedDonation.createdAt).toLocaleString()}</span>
-                </div>
-                {selectedDonation.receiptNumber && (
-                  <div className="detail-row">
-                    <span className="detail-label">Receipt Number:</span>
-                    <span className="detail-value">{selectedDonation.receiptNumber}</span>
-                  </div>
-                )}
-              </div>
-            </div>
-          </div>
-        </div>
-      )}
 
       <style>{`
         .profile-container {
