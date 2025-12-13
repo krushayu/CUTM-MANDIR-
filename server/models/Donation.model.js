@@ -14,15 +14,7 @@ const DonationSchema = new mongoose.Schema(
     amount: { type: Number, required: true, min: 1 },
     purpose: {
       type: String,
-      required: true,
-      enum: [
-        "general","annadanam","maintenance","education","construction",
-        "brahmotsav","diwali","holi","janmashtami","shivaratri",
-        "navaratri","ganesh_chaturthi","ram_navami","hanuman_jayanti",
-        "karva_chauth","dussehra","govardhan_puja","akshaya_tritiya",
-        "special_pooja","abhishekam","aarti","prasadam","decoration",
-        "lighting","sound_system","security","cleaning","other"
-      ]
+      required: true
     },
     donorName: { type: String, required: true },
     donorEmail: { type: String, required: true },
@@ -34,7 +26,7 @@ const DonationSchema = new mongoose.Schema(
       default: "pending"
     },
     whatsappSent: { type: Boolean, default: false },
-    userId: { type: mongoose.Schema.Types.ObjectId, ref: "UserAuth", required: true }
+    // userId: { type: mongoose.Schema.Types.ObjectId, ref: "UserAuth" }
   },
   { timestamps: true }
 );

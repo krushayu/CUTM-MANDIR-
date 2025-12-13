@@ -1,12 +1,11 @@
 import express from "express";
 import Donation from "../models/Donation.model.js";
-import { verifyToken } from "../middleware/auth.middleware.js";
 import { upload, uploadToCloudinary } from "../config/cloudinary.js";
 
 const router = express.Router();
 
 // Create donation
-router.post("/", verifyToken, upload.single("screenshot"), async (req, res) => {
+router.post("/", upload.single("screenshot"), async (req, res) => {
   try {
     const { amount, purpose, donorName, donorEmail, transactionId } = req.body;
 
@@ -15,7 +14,7 @@ router.post("/", verifyToken, upload.single("screenshot"), async (req, res) => {
     }
 
     // Upload image to Cloudinary
-    const filename = `donation_${Date.now()}_${req.user.id}`;
+    const filename = `donation_${Date.now()}_${donorEmail}`;
     const cloudinaryResult = await uploadToCloudinary(req.file.buffer, filename);
 
     // Save in MongoDB
@@ -25,8 +24,7 @@ router.post("/", verifyToken, upload.single("screenshot"), async (req, res) => {
       donorName,
       donorEmail,
       transactionId,
-      screenshot: cloudinaryResult.secure_url,
-      userId: req.user.id
+      screenshot: cloudinaryResult.secure_url
     });
 
     // Send to WhatsApp
@@ -43,19 +41,7 @@ router.post("/", verifyToken, upload.single("screenshot"), async (req, res) => {
   }
 });
 
-// Get user donation history
-router.get("/user/history", verifyToken, async (req, res) => {
-  try {
-    const donations = await Donation.find({ userId: req.user.id })
-      .sort({ createdAt: -1 })
-      .select('donationId amount purpose status receiptNumber createdAt');
 
-    res.json({ donations });
-  } catch (error) {
-    console.error('Get donations error:', error);
-    res.status(500).json({ message: "Failed to get donation history" });
-  }
-});
 
 // WhatsApp forward (dummy)
 async function sendToWhatsApp(donation) {

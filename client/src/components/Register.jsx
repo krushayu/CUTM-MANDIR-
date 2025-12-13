@@ -189,7 +189,7 @@ export default function Register({ onAuthChange }) {
                   onChange={(e) => setFormData({...formData, role: e.target.value})}
                   className="sacred-select"
                 >
-                  <option value="devotee">🙏 Devotee (Bhakt)</option>
+                  <option value="devotee">🙏 Devotee</option>
                 </select>
                 <div className="input-border"></div>
               </div>
@@ -208,7 +208,7 @@ export default function Register({ onAuthChange }) {
               </>
             ) : (
               <>
-                <GiTempleGate className="button-icon" />
+                {/* <GiTempleGate className="button-icon" /> */}
                 <span>Submit</span>
               </>
             )}

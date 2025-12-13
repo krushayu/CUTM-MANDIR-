@@ -23,7 +23,7 @@ const Donation = () => {
 
   const purposeOptions = [
     { value: 'brahmotsav', label: 'Brahmotsavam', emoji: '🎊' },
-    { value: 'other', label: 'Other', emoji: '📝' }
+    { value: 'other', label: 'Other', emoji: '📝' } 
   ];
 
   // No authentication required for donation page
@@ -174,7 +174,7 @@ const Donation = () => {
         submitData.append('screenshot', formData.screenshot);
       }
       
-      // Add timestamp for security
+      // Add timestamp
       submitData.append('timestamp', new Date().toISOString());
       
       const response = await fetch('http://localhost:5000/api/donations', {
@@ -332,7 +332,7 @@ const Donation = () => {
                     name="otherPurpose"
                     value={formData.otherPurpose}
                     onChange={handleInputChange}
-                    placeholder="Please describe the purpose of your donation (optional)"
+                    placeholder="Donation Perpose "
                     rows="3"
                   />
                 </div>
@@ -453,7 +453,7 @@ const Donation = () => {
                         name="transactionId"
                         value={formData.transactionId}
                         onChange={handleInputChange}
-                        placeholder="12-digit Transaction ID from your bank/UPI app"
+                        placeholder="Enter Transaction ID of your Payment"
                         required
                       />
                       {errors.transactionId && <div className="error-message">⚠️ {errors.transactionId}</div>}
@@ -573,13 +573,7 @@ const Donation = () => {
               
               <div className="success-buttons">
                 <button 
-                  className="primary-btn" 
-                  onClick={() => navigate('/profile')}
-                >
-                  📋 View Donation History
-                </button>
-                <button 
-                  className="secondary-btn"
+                  className="primary-btn"
                   onClick={() => {
                     setStep(1);
                     setFormData({
@@ -596,6 +590,12 @@ const Donation = () => {
                   }}
                 >
                   🔄 Make Another Donation
+                </button>
+                <button 
+                  className="secondary-btn" 
+                  onClick={() => navigate('/')}
+                >
+                  🏠 Back to Home
                 </button>
               </div>
             </div>
